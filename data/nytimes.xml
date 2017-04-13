@@ -1,0 +1,641 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Home Page</title>
+    <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/HomePage.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Wed, 12 Apr 2017 22:14:01 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Home Page</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Trump Says It&#x2019;s Likely Russia Knew of Syrian Gas Attack in Advance</title>
+      <link>http://www.nytimes.com/2017/04/12/world/europe/trump-nato-russia.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/world/europe/trump-nato-russia.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/world/europe/trump-nato-russia.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/us/13prexy-1/13prexy-1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump met with Jens Stoltenberg, the NATO secretary general, in the Oval Office on Wednesday.</media:description>
+      <media:credit>Stephen Crowley/The New York Times</media:credit>
+      <description>The remarks amounted to an explosive suggestion at a time of heightened tension between the United States and Russia after the chemical attack.</description>
+      <dc:creator>JULIE HIRSCHFELD DAVIS and PETER BAKER</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 21:39:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">North Atlantic Treaty Organization</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montenegro</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Tillerson and Putin Find Little More Than Disagreement in Meeting</title>
+      <link>http://www.nytimes.com/2017/04/12/world/europe/tillerson-putin-lavrov-russia-syria.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/world/europe/tillerson-putin-lavrov-russia-syria.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/world/europe/tillerson-putin-lavrov-russia-syria.html?partner=rss&amp;emc=rss"/>
+      <description>Secretary of State Rex W. Tillerson and President Vladimir V. Putin of Russia appeared unable to agree on the facts on contentious issues, much less improve relations.</description>
+      <dc:creator>DAVID E. SANGER</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 19:12:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Embargoes and Sanctions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lavrov, Sergey V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Peskov, Dmitri S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tillerson, Rex W</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Middle East</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Moscow (Russia)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">United States</category>
+    </item>
+    <item>
+      <title>The Interpreter: Trump Faces the Limits of American Power</title>
+      <link>http://www.nytimes.com/2017/04/11/world/middleeast/trump-syria-nigeria.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/world/middleeast/trump-syria-nigeria.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/world/middleeast/trump-syria-nigeria.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/world/12Int-intervention1/12Int-intervention1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>After an airstrike in Douma, Syria, in February. The United States has sought to mediate between the warring parties, or tip the military balance through force.</media:description>
+      <media:credit>Sameer Al-Doumy/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>In Syria, Nigeria and elsewhere, President Trump has inherited international crises where intervention efforts are likely to have only modest success.</description>
+      <dc:creator>MAX FISHER</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 00:31:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Refugees and Displaced Persons</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Nigeria</category>
+    </item>
+    <item>
+      <title>News Analysis: Trump&#x2019;s Shift on Russia Brings Geopolitical Whiplash</title>
+      <link>http://www.nytimes.com/2017/04/11/world/europe/russia-putin-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/world/europe/russia-putin-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/world/europe/russia-putin-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/us/12Assess/12Assess-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Vladimir V. Putin of Russia. President Trump&#x2019;s administration has accused Russia of trying to cover up a Syrian chemical weapons attack on civilians.</media:description>
+      <media:credit>Pool photo by Ivan Sekretarev</media:credit>
+      <description>Accusations that President Trump is too close to Russia have given way to a new toughness demonstrated by the administration.</description>
+      <dc:creator>PETER BAKER</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 18:15:56 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States International Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Putin, Vladimir V</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+    </item>
+    <item>
+      <title>United Airlines, Syria, Betsy DeVos: Your Wednesday Evening Briefing</title>
+      <link>http://www.nytimes.com/2017/04/12/briefing/united-airlines-syria-betsy-devos.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/briefing/united-airlines-syria-betsy-devos.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/briefing/united-airlines-syria-betsy-devos.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/briefing/12eveningss-slide-L2IF/12eveningss-slide-L2IF-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>U.S. State Department, via European Pressphoto Agency</media:credit>
+      <description>Here&#x2019;s what you need to know at the end of the day.</description>
+      <dc:creator>KAREN ZRAICK and SANDRA STEVENSON</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 22:05:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Asia and Australia Edition: Syria, Ahmadinejad, United Airlines: Your Morning Briefing</title>
+      <link>http://www.nytimes.com/2017/04/12/briefing/syria-ahmadinejad-united-airlines.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/briefing/syria-ahmadinejad-united-airlines.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/briefing/syria-ahmadinejad-united-airlines.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/briefing/13asia-briefing-slide-6TJF/13asia-briefing-slide-6TJF-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Alexander Zemlianichenko/Associated Press</media:credit>
+      <description>Here&#x2019;s what you need to know to start your day.</description>
+      <dc:creator>CHARLES McDERMID</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 21:14:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trump Undercuts Top Adviser Stephen K. Bannon, Whose Job May Be in Danger</title>
+      <link>http://www.nytimes.com/2017/04/12/us/politics/steve-bannon-white-house-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/us/politics/steve-bannon-white-house-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/us/politics/steve-bannon-white-house-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/us/13bannon/13bannon-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Stephen K. Bannon, President Trump&#x2019;s chief strategist, during a meeting with the Chinese President Xi Jinping at Mar-a-Lago in Florida last week.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>President Trump said Mr. Bannon was not the chief strategist of his campaign victory, distancing himself from the contentious hard-right adviser who is increasingly isolated in the White House.</description>
+      <dc:creator>JEREMY W. PETERS and MAGGIE HABERMAN</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 18:12:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bannon, Stephen K</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kushner, Jared</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Ivanka</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Appointments and Executive Changes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Law and Legislation</category>
+    </item>
+    <item>
+      <title>&#x2018;I Screwed Up&#x2019;: Sean Spicer Apologizes for Holocaust Comments</title>
+      <link>http://www.nytimes.com/2017/04/12/business/media/sean-spicer-apology-holocaust-comments.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/business/media/sean-spicer-apology-holocaust-comments.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/business/media/sean-spicer-apology-holocaust-comments.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13spicer/13spicer-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sean Spicer, the White House press secretary, said on Wednesday that he &#x201C;made a mistake&#x201D; in his comments on the Holocaust the day before.</media:description>
+      <media:credit>Aaron P. Bernstein/Getty Images</media:credit>
+      <description>Facing an outcry that included calls for his resignation, Mr. Spicer said his remarks, in which he favorably compared Hitler to President Bashar al-Assad of Syria, were &#x201C;inexcusable.&#x201D;</description>
+      <dc:creator>MICHAEL M. GRYNBAUM</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 16:25:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spicer, Sean M (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">News and News Media</category>
+    </item>
+    <item>
+      <title>Scott Pruitt Faces Anger From Right Over E.P.A. Finding He Won&#x2019;t Fight</title>
+      <link>http://www.nytimes.com/2017/04/12/climate/scott-pruitt-epa-endangerment-finding.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/climate/scott-pruitt-epa-endangerment-finding.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/climate/scott-pruitt-epa-endangerment-finding.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/science/13PRUITT1/13PRUITT1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Traffic in New York City. Conservative groups want Scott Pruitt, the head of the Environmental Protection Agency, to overturn a ruling known as the endangerment finding, which provides the legal foundation for the Obama administration&#x2019;s climate-change policies.</media:description>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <description>Critics charge the agency&#x2019;s administrator should have challenged a legal finding that underpinned the Obama climate policies, but he refuses to budge.</description>
+      <dc:creator>CORAL DAVENPORT</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:48:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pruitt, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Environmental Protection Agency</category>
+    </item>
+    <item>
+      <title>Your Daily Mini Crossword</title>
+      <link>http://www.nytimes.com/crosswords/game/mini?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/crosswords/game/mini</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/crosswords/game/mini?partner=rss&amp;emc=rss"/>
+      <description>Solve a bite-size crossword in just a few minutes.</description>
+      <dc:creator/>
+      <pubDate>Tue, 14 Mar 2017 22:01:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ham or Lamb? The Easter Choice May Be Changing</title>
+      <link>http://www.nytimes.com/2017/04/11/dining/easter-ham-lamb.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/dining/easter-ham-lamb.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/dining/easter-ham-lamb.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/dining/12LAMBCOVER/12LAMBCOVER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Pushart</media:credit>
+      <description>Unlike the rest of the world, Americans turn to pork for the holiday. But this could be the year to start looking at another meat.</description>
+      <dc:creator>KIM SEVERSON</dc:creator>
+      <pubDate>Tue, 11 Apr 2017 19:25:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lamb</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Ham</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Easter and Holy Week</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cooking and Cookbooks</category>
+    </item>
+    <item>
+      <title>Tech We're Using: The Apps That Make Keeping Up With Soccer Easier</title>
+      <link>http://www.nytimes.com/2017/04/12/technology/personaltech/the-apps-that-make-keeping-up-with-soccer-easier.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/technology/personaltech/the-apps-that-make-keeping-up-with-soccer-easier.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/technology/personaltech/the-apps-that-make-keeping-up-with-soccer-easier.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13TECHUSING1/13TECHUSING1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rory Smith using his Apple iPad outside Stamford Bridge, home of Chelsea FC, in London.</media:description>
+      <media:credit>Tom Jamieson for The New York Times</media:credit>
+      <description>The video-streaming apps Virgin Anywhere and Sky Sports Mobile TV are a boon for a soccer reporter, or a fan.</description>
+      <dc:creator>RORY SMITH</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:02:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sky Sports Mobile TV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Virgin Anywhere</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Television Sets and Media Devices</category>
+    </item>
+    <item>
+      <title>Phys Ed: Why Deep Breathing May Keep Us Calm</title>
+      <link>http://www.nytimes.com/2017/04/05/well/move/what-chill-mice-can-teach-us-about-keeping-calm.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/05/well/move/what-chill-mice-can-teach-us-about-keeping-calm.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/05/well/move/what-chill-mice-can-teach-us-about-keeping-calm.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/11/science/physed-breathing/physed-breathing-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Getty Images</media:credit>
+      <description>Scientists may have uncovered for the first time why taking deep breaths can be so calming.</description>
+      <dc:creator>GRETCHEN REYNOLDS</dc:creator>
+      <pubDate>Wed, 05 Apr 2017 10:00:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Anxiety and Stress</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Brain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Pacemakers</category>
+    </item>
+    <item>
+      <title>Turkey in Turmoil and Chaos Since Purge Aimed at Dissenters</title>
+      <link>http://www.nytimes.com/2017/04/12/world/europe/turkey-erdogan-purge.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/world/europe/turkey-erdogan-purge.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/world/europe/turkey-erdogan-purge.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/world/13turkeyvacuum1/13turkeyvacuum1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A sign in Istanbul asks for yes votes on Sunday in a referendum that would expand the powers of President Recep Tayyip Erdogan of Turkey, who is pictured on the sign.</media:description>
+      <media:credit>Chris Mcgrath/Getty Images</media:credit>
+      <description>The government has fired or suspended about 130,000 people suspected of being dissidents from the public and private sectors since a coup attempt last summer.</description>
+      <dc:creator>PATRICK KINGSLEY</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 19:17:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coups D'Etat and Attempted Coups D'Etat</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Turkey</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Erdogan, Recep Tayyip</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gulen, Fethullah</category>
+    </item>
+    <item>
+      <title>Suburban G.O.P. Voters Sour on Party, Raising Republican Fears for 2018</title>
+      <link>http://www.nytimes.com/2017/04/12/us/suburban-gop-voters-sour-on-party-raising-republican-fears-for-2018.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/us/suburban-gop-voters-sour-on-party-raising-republican-fears-for-2018.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/us/suburban-gop-voters-sour-on-party-raising-republican-fears-for-2018.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/us/13repubs1/13repubs1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Judson Hill, a Republican candidate in Georgia&#x2019;s Sixth Congressional District, made calls at his campaign headquarters in Sandy Springs, an Atlanta suburb, on Tuesday.</media:description>
+      <media:credit>Kevin D. Liles for The New York Times</media:credit>
+      <description>A narrower-than-expected victory in Kansas and an even tougher contest next week in Georgia are highlighting Republicans&#x2019; troubles with affluent white voters.</description>
+      <dc:creator>ALEXANDER BURNS and JONATHAN MARTIN</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:50:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Midterm Elections (2018)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Voting and Voters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Estes, Ron (1956- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gottheimer, Joshua S (1975- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ossoff, Jon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Paulsen, Erik (1965- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Atlanta (Ga)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minneapolis (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Minnetonka (Minn)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Wichita (Kan)</category>
+    </item>
+    <item>
+      <title>Political Calculus: A Republican Wins in Kansas. It&#x2019;s Still a Loss for the G.O.P.</title>
+      <link>http://www.nytimes.com/2017/04/12/upshot/a-republican-wins-in-kansas-its-still-a-loss-of-sorts-for-the-gop.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/upshot/a-republican-wins-in-kansas-its-still-a-loss-of-sorts-for-the-gop.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/upshot/a-republican-wins-in-kansas-its-still-a-loss-of-sorts-for-the-gop.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/upshot/12up-kansas2/12up-kansas2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>In the final days, Republicans started to get nervous about Tuesday&#x2019;s election in Kansas. Senator Ted Cruz, left, tried to bolster the Republican congressional candidate Ron Estes, right, with a visit, and President Trump and Vice President Mike Pence made robocalls on his behalf. Mr. Estes wound up winning, but by a modest margin in a deep-red district.</media:description>
+      <media:credit>Fernando Salazar/The Wichita Eagle, via Associated Press</media:credit>
+      <description>A surprisingly close seven-point victory in a deep-red district suggests that the G.O.P. is heading for trouble in 2018.</description>
+      <dc:creator>NATE COHN</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 05:03:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Estes, Ron (1956- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Elections, House of Representatives</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Kansas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+    </item>
+    <item>
+      <title>How to Write TV in the Age of Trump: Showrunners Reveal All</title>
+      <link>http://www.nytimes.com/2017/04/12/arts/television/political-tv-in-age-of-trump-shonda-rhimes-scandal-veep-madame-secretary-house-of-cards-hbo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/arts/television/political-tv-in-age-of-trump-shonda-rhimes-scandal-veep-madame-secretary-house-of-cards-hbo.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/arts/television/political-tv-in-age-of-trump-shonda-rhimes-scandal-veep-madame-secretary-house-of-cards-hbo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/11/arts/television/wiseman_web2/wiseman_web2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Ben Wiseman. Photos by Kevin Winter/Getty Images; Steve Sands/GC Images; Byron Cohen/ABC, via Getty Images; Sarah Shatz/CBS, via Getty Images.</media:credit>
+      <description>Shonda Rhimes of &#x201C;Scandal&#x201D; and the people behind &#x201C;Veep,&#x201D; &#x201C;Madam Secretary&#x201D; and &#x201C;House of Cards&#x201D; talk about reality bumping into fiction.</description>
+      <dc:creator>JIM RUTENBERG</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 09:00:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">House of Cards (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Madam Secretary (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Scandal (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Veep (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mandel, David H (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rhimes, Shonda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hall, Barbara (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pugliese, Frank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gibson, Melissa James</category>
+    </item>
+    <item>
+      <title>State of the Art: How Technology Has Failed to Improve Your Airline Experience</title>
+      <link>http://www.nytimes.com/2017/04/12/technology/how-technology-has-failed-to-improve-your-airline-experience.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/technology/how-technology-has-failed-to-improve-your-airline-experience.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/technology/how-technology-has-failed-to-improve-your-airline-experience.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/us/12state-united/12state-united-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>United Airlines planes at San Francisco International Airport. Oscar Munoz, United&#x2019;s chief executive, offered an apology and pledged to review the airline&#x2019;s policies two days after a passenger was violently ejected from an overbooked flight.</media:description>
+      <media:credit>Louis Nastro/Reuters</media:credit>
+      <description>Silicon Valley prides itself on its capacity to upend entrenched industries. But airlines have eluded tech disruption.</description>
+      <dc:creator>FARHAD MANJOO</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 09:00:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Airlines</category>
+    </item>
+    <item>
+      <title>United Grapples With PR Crisis Over Videos of Man Being Dragged Off Plane</title>
+      <link>http://www.nytimes.com/2017/04/11/business/united-airline-passenger-overbooked-flights.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/business/united-airline-passenger-overbooked-flights.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/business/united-airline-passenger-overbooked-flights.html?partner=rss&amp;emc=rss"/>
+      <description>The videos cast an unwelcome light not just on United, but on the airline industry&#x2019;s efforts to maximize profits.</description>
+      <dc:creator>JULIE CRESWELL and SAPNA MAHESHWARI</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 02:10:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dao, David A (1948- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airport Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Munoz, Oscar (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Continental Holdings Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
+    </item>
+    <item>
+      <title>Update: In the Air, That Uneasy Feeling of &#x2018;Us vs. Them&#x2019;</title>
+      <link>http://www.nytimes.com/2017/04/12/travel/in-the-air-that-uneasy-feeling-of-us-vs-them.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/travel/in-the-air-that-uneasy-feeling-of-us-vs-them.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/travel/in-the-air-that-uneasy-feeling-of-us-vs-them.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/travel/12update-passengers-rights/12update-passengers-rights-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>When airlines reinvented themselves, some services, like checked bags and meals, became pay-per-use options.</media:description>
+      <media:credit>Robert Nickelsberg/Getty Images</media:credit>
+      <description>How the airline industry and passengers came to find themselves navigating unfriendly skies.</description>
+      <dc:creator>ELAINE GLUSAC</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 18:09:21 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Travel and Vacations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Passenger Rights</category>
+    </item>
+    <item>
+      <title>Is This China&#x2019;s Fountain of Youth?</title>
+      <link>http://www.nytimes.com/video/world/asia/100000005029231/is-this-chinas-fountain-of-youth.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/video/world/asia/100000005029231/is-this-chinas-fountain-of-youth.html</guid>
+      <description>With the number of older people on the rise in China, longevity-themed tourism is blossoming. Take a 360 tour of Bama County, where visitors breathe in the air that is said to have healing powers.</description>
+      <dc:creator/>
+      <pubDate>Wed, 12 Apr 2017 08:50:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Letter Found After Borussia Dortmund Bus Attack Demands Pullback in Syria</title>
+      <link>http://www.nytimes.com/2017/04/12/world/europe/borussia-dortmund-explosion-bus-germany.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/world/europe/borussia-dortmund-explosion-bus-germany.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/world/europe/borussia-dortmund-explosion-bus-germany.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/world/13Germany/13Germany-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Security on Wednesday at the site in Dortmund, Germany, where the Borussia Dortmund team bus was damaged in an explosion.</media:description>
+      <media:credit>Rolf Vennenbernd/DPA, via Associated Press</media:credit>
+      <description>Two people with an &#x201C;Islamist background&#x201D; were held after the attack on the soccer team&#x2019;s bus, the German Federal Prosecutor&#x2019;s Office said.</description>
+      <dc:creator>ALISON SMALE</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 19:15:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">UEFA Champions League (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Muslims and Islam</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Buses</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Defense and Military Forces</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Borussia Dortmund (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Islamic State in Iraq and Syria (ISIS)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Berlin (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dortmund (Germany)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Germany</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Monaco</category>
+    </item>
+    <item>
+      <title>Venezuela Staves Off Default, but Low Oil Prices Pose a Threat</title>
+      <link>http://www.nytimes.com/2017/04/12/business/venezuela-oil-debt-payment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/business/venezuela-oil-debt-payment.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/business/venezuela-oil-debt-payment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13venezuela1/13venezuela1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A demonstration this month in Caracas against the government of President Nicol&#xE1;s Maduro. With its oil production and international reserves falling, the government is struggling to pay for imported medicine and food.</media:description>
+      <media:credit>Juan Barreto/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>With dwindling reserves and political turmoil, the government is juggling assets and leaning on its American subsidiary, Citgo, to meet payment needs.</description>
+      <dc:creator>CLIFFORD KRAUSS</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 14:42:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">PDVSA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+    </item>
+    <item>
+      <title>For Alabama Christians, Governor Bentley&#x2019;s Downfall Is a Bitter Blow</title>
+      <link>http://www.nytimes.com/2017/04/11/us/alabama-governor-robert-bentley-sex-scandal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/us/alabama-governor-robert-bentley-sex-scandal.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/us/alabama-governor-robert-bentley-sex-scandal.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/us/12Alabama/12Alabama-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Robert Bentley resigned as governor on Monday and pleaded guilty to two misdemeanors in the wake of a sex scandal.</media:description>
+      <media:credit>Bob Miller for The New York Times</media:credit>
+      <description>When Robert Bentley became Alabama&#x2019;s governor, evangelical Christians hoped he would be a model of integrity. On Monday, he resigned after a sex scandal.</description>
+      <dc:creator>ALAN BLINDER</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 00:23:39 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Alabama</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bentley, Robert J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Christians and Christianity</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Adultery</category>
+    </item>
+    <item>
+      <title>J. Geils, Whose Band&#x2019;s Catchy Pop Hits Colored the 1980s, Dies at 71</title>
+      <link>http://www.nytimes.com/2017/04/11/arts/music/j-geils-whose-bands-catchy-pop-hits-colored-the-1980s-dies-at-71.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/arts/music/j-geils-whose-bands-catchy-pop-hits-colored-the-1980s-dies-at-71.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/arts/music/j-geils-whose-bands-catchy-pop-hits-colored-the-1980s-dies-at-71.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/obituaries/13xp-geils/12xp-geils-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>J. Geils and Danny Klein of the J. Geils Band performing in 1972 in Copenhagen.</media:description>
+      <media:credit>Jorgen Angel/Redferns, via Getty Images</media:credit>
+      <description>&#x201C;Centerfold,&#x201D; &#x201C;Freeze-Frame&#x201D; and &#x201C;Love Stinks&#x201D; were among the band&#x2019;s most popular songs.</description>
+      <dc:creator>NIRAJ CHOKSHI</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 21:24:15 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Geils, J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Pop and Rock Music</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Deaths (Obituaries)</category>
+    </item>
+    <item>
+      <title>David Letterman's Mom, Who Became Unlikely Star, Dies at 95</title>
+      <link>http://www.nytimes.com/aponline/2017/04/12/us/ap-us-obit-lettermans-mom.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/aponline/2017/04/12/us/ap-us-obit-lettermans-mom.html</guid>
+      <description>David Letterman's mother Dorothy Mengering, a Midwestern homemaker who became an unlikely celebrity in her 70s as she baked mystery pies and covered the Olympics for her son's late-night show, has died. She was 95.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 05:24:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">CBS Corporation|CBS|NYSE</category>
+    </item>
+    <item>
+      <title>The Interpreter</title>
+      <link>http://www.nytimes.com/newsletters/the-interpreter?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/newsletters/the-interpreter</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/newsletters/the-interpreter?partner=rss&amp;emc=rss"/>
+      <description>The Interpreter brings sharp insight and context to the major news stories of the week. Sign up to get it by email.</description>
+      <dc:creator/>
+      <pubDate>Fri, 03 Feb 2017 21:38:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lula and Simba, Last Surviving Animals at Mosul Zoo, Have Been Rescued</title>
+      <link>http://www.nytimes.com/2017/04/12/world/middleeast/mosul-zoo-rescue.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/world/middleeast/mosul-zoo-rescue.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/world/middleeast/mosul-zoo-rescue.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/world/13mosulzoo1/13mosulzoo1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Lula, a bear from the zoo in Mosul, after arriving at an animal rehabilitation shelter in Jordan.</media:description>
+      <media:credit>Muhammad Hamed/Reuters</media:credit>
+      <description>Lula, a bear, and Simba, a lion, were taken to a wildlife shelter in Jordan after being saved from their home, which was severely damaged in battles for control of the city.</description>
+      <dc:creator>RANA F. SWEIS</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 18:55:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Animals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Mosul (Iraq)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Zoos</category>
+    </item>
+    <item>
+      <title>&#x2018;Fantastic Beasts&#x2019; Has a New Dumbledore: Jude Law</title>
+      <link>http://www.nytimes.com/2017/04/12/movies/fantastic-beasts-dumbledore-jude-law.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/movies/fantastic-beasts-dumbledore-jude-law.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/movies/fantastic-beasts-dumbledore-jude-law.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/arts/13Wizard2/13Wizard2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Michael Gambon as Albus Dumbledore in &#x201C;Harry Potter and the Half-Blood Prince&#x201D; (2009).</media:description>
+      <media:credit>Jaap Buitendjik/Warner Bros. Pictures</media:credit>
+      <description>The actor will play a younger version of the professor in the next installment of J.K. Rowling&#x2019;s franchise.</description>
+      <dc:creator>CARA BUCKLEY</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 18:16:47 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Law, Jude</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Fantastic Beasts and Where to Find Them (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Movies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yates, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rowling, J K</category>
+    </item>
+    <item>
+      <title>Bill Cosby&#x2019;s Books Join &#x2018;Most Challenged&#x2019; List</title>
+      <link>http://www.nytimes.com/2017/04/12/books/bill-cosbys-books-join-most-challenged-list.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/books/bill-cosbys-books-join-most-challenged-list.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/books/bill-cosbys-books-join-most-challenged-list.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/arts/13cosby/13cosby-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>One of the titles in Bill Cosby&#x2019;s &#x201C;Little Bill&#x201D; book series.</media:description>
+      <media:credit>Scholastic</media:credit>
+      <description>There have been calls for the removal of Mr. Cosby&#x2019;s children&#x2019;s book series from schools and libraries.</description>
+      <dc:creator>GRAHAM BOWLEY</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 19:15:22 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Books and Literature</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sex Crimes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Cosby, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">American Library Assn</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Little Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Censorship</category>
+    </item>
+    <item>
+      <title>European Court Strikes Down Required Sterilization for Transgender People</title>
+      <link>http://www.nytimes.com/2017/04/12/world/europe/european-court-strikes-down-required-sterilization-for-transgender-people.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/world/europe/european-court-strikes-down-required-sterilization-for-transgender-people.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/world/europe/european-court-strikes-down-required-sterilization-for-transgender-people.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/11/world/00xp-transgender/00xp-transgender-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A gay pride parade in Paris in 2013. Gay and transgender activists in Europe have argued that a sterilization requirement of transgender people was an institutionalized violation of human rights.</media:description>
+      <media:credit>Martin Bureau/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Activists celebrated the ruling, though it does not mean immediate legal change in the countries that require sterilization.</description>
+      <dc:creator>LIAM STACK</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 18:47:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Transgender and Transsexuals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Law and Legislation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">European Court of Human Rights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">France</category>
+    </item>
+    <item>
+      <title>Commissioner Starts to Press Cleveland Indians About Logo</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/commissioner-starts-to-press-cleveland-indians-about-logo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/commissioner-starts-to-press-cleveland-indians-about-logo.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/commissioner-starts-to-press-cleveland-indians-about-logo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/sports/12indians2/12indians2-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Edwin Encarnacion of the Indians being introduced before Cleveland&#x2019;s home opener against the Chicago White Sox on Tuesday. The Chief Wahoo logo could not be seen anywhere on the stadium building or on the field, but it was on the players&#x2019; jerseys and caps.</media:description>
+      <media:credit>Ken Blaze/USA Today Sports, via Reuters</media:credit>
+      <description>In a statement, Rob Manfred was said to have expressed a desire &#x201C;to transition away from the Chief Wahoo logo,&#x201D; a smiling caricature the team uses that many find offensive.</description>
+      <dc:creator>DAVID WALDSTEIN</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 09:00:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cleveland Indians</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Major League Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manfred, Robert D</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Native Americans</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Logos</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Encarnacion, Edwin (1983- )</category>
+    </item>
+    <item>
+      <title>Student Charged With Hazing in Peanut Butter Allergy Case</title>
+      <link>http://www.nytimes.com/2017/04/12/us/michigan-hazing-peanut-butter-allergy.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/us/michigan-hazing-peanut-butter-allergy.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/us/michigan-hazing-peanut-butter-allergy.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/us/13xp-peanutbutter/13xp-peanutbutter-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A college student has been charged with hazing after allegedly smearing peanut butter on a friend who had a severe peanut allergy, the man&#x2019;s lawyer said.</media:description>
+      <media:credit>Getty Images</media:credit>
+      <description>A college student was charged after another student with a serious peanut allergy passed out at an off-campus party and woke up with peanut butter on his face.</description>
+      <dc:creator>CHRISTINE HAUSER</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 18:18:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Peanuts</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fraternities and Sororities</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hazing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Peanut Butter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Central Michigan University</category>
+    </item>
+    <item>
+      <title>Burger King TV Ad Asks, Hoping Google Home Devices Answer</title>
+      <link>http://www.nytimes.com/2017/04/12/business/burger-king-tv-ad-google-home.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/business/burger-king-tv-ad-google-home.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/business/burger-king-tv-ad-google-home.html?partner=rss&amp;emc=rss"/>
+      <description>The commercial is a novel but potentially invasive marketing tactic that comes as more Americans use smart speakers in their homes.</description>
+      <dc:creator>SAPNA MAHESHWARI</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 16:04:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Burger King Corp</category>
+    </item>
+    <item>
+      <title>Trilobites: A Lizard With Scales That Behave Like a Computer Simulation</title>
+      <link>http://www.nytimes.com/2017/04/12/science/ocellated-lizards-scales-cellular-automata.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/science/ocellated-lizards-scales-cellular-automata.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/science/ocellated-lizards-scales-cellular-automata.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/science/13tb-lizard01/13tb-lizard01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An ocellated lizard. Their scales change from brown and white to black and green as they get older, and scientists say they appear to follow a pattern that is similar to a computer simulation.</media:description>
+      <media:credit>Michel Milinkovitch</media:credit>
+      <description>Two mathematical models converge to illuminate the process through which an ocellated lizard&#x2019;s scales repeatedly change color.</description>
+      <dc:creator>STEPH YIN</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:00:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lizards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reptiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milinkovitch, Michel</category>
+    </item>
+    <item>
+      <title>An Appraisal: How David Letterman&#x2019;s Mother Endeared Him to Viewers</title>
+      <link>http://www.nytimes.com/2017/04/12/arts/how-david-lettermans-mother-endeared-him-to-viewers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/arts/how-david-lettermans-mother-endeared-him-to-viewers.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/arts/how-david-lettermans-mother-endeared-him-to-viewers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/arts/13letterman-appreciation2/13letterman-appreciation2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Dorothy Mengering during a taping of &#x201C;Late Show&#x201D; in 1996, with the bandleader Paul Shaffer, center, and her son, David Letterman.</media:description>
+      <media:credit>CBS, via Associated Press</media:credit>
+      <description>Dorothy Mengering, who died on Tuesday, was a perfect comic foil, softening her son&#x2019;s bite and eventually becoming his show&#x2019;s recurring correspondent.</description>
+      <dc:creator>JASON ZINOMAN</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 18:20:42 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mengering, Dorothy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Letterman, David</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Night With David Letterman (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Late Show With David Letterman (TV Program)</category>
+    </item>
+    <item>
+      <title>Works in Progress: Hoping Cherry Blossoms Won&#x2019;t Arrive Early to Their Own Party</title>
+      <link>http://www.nytimes.com/2017/04/12/nyregion/cherry-blossoms-brooklyn-botanical-garden.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/nyregion/cherry-blossoms-brooklyn-botanical-garden.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/nyregion/cherry-blossoms-brooklyn-botanical-garden.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/16/nyregion/16WIP1/16WIP1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Brian Funk, a specialist of cherry trees at Brooklyn Botanic Gardens. Administrators there hope peak blooming coincides with the annual festival at the end of April.</media:description>
+      <media:credit>Ryan Christopher Jones for The New York Times</media:credit>
+      <description>The annual festival at Brooklyn Botanic Garden takes place at the end of April &#x2014; regardless of when nature decides to push play.</description>
+      <dc:creator>HELENE STAPINSKI</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 09:05:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Gardens and Gardening</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trees and Shrubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cherries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Spring (Season)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Brooklyn Botanic Garden</category>
+    </item>
+    <item>
+      <title>People Like Us: Why Americans Vote &#x2018;Against Their Interest&#x2019;: Partisanship</title>
+      <link>http://www.nytimes.com/2017/04/12/upshot/why-americans-vote-against-their-interest-partisanship.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/upshot/why-americans-vote-against-their-interest-partisanship.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/upshot/why-americans-vote-against-their-interest-partisanship.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/06/upshot/07up-partisan/07up-partisan-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Kyle Lloyd, 40, wore a painted &#x201C;Dump Trump&#x201D; message at a protest in Philadelphia in January.</media:description>
+      <media:credit>Mark Makela/Getty Images</media:credit>
+      <description>For voters in the United States, party affiliation is a way to express a bundle of identities.</description>
+      <dc:creator>AMANDA TAUB</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 09:30:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Psychology and Psychologists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Republican Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Democratic Party</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+  </channel>
+</rss>
