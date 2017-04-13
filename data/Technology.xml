@@ -1,0 +1,641 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Technology</title>
+    <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Technology.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Thu, 13 Apr 2017 17:42:03 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Technology</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/technology?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>State of the Art: How Technology Has Failed to Improve Your Airline Experience</title>
+      <link>https://www.nytimes.com/2017/04/12/technology/how-technology-has-failed-to-improve-your-airline-experience.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/technology/how-technology-has-failed-to-improve-your-airline-experience.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/technology/how-technology-has-failed-to-improve-your-airline-experience.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/us/12state-united/12state-united-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>United Airlines planes at San Francisco International Airport. Oscar Munoz, United&#x2019;s chief executive, offered an apology and pledged to review the airline&#x2019;s policies two days after a passenger was violently ejected from an overbooked flight.</media:description>
+      <media:credit>Louis Nastro/Reuters</media:credit>
+      <description>Silicon Valley prides itself on its capacity to upend entrenched industries. But airlines have eluded tech disruption.</description>
+      <dc:creator>FARHAD MANJOO</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 09:00:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Customer Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Loyalty Programs</category>
+    </item>
+    <item>
+      <title>A Chat With a Live Streamer Is Yours, for a Price</title>
+      <link>http://www.nytimes.com/2017/04/12/technology/personaltech/paying-for-live-stream-chat.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/technology/personaltech/paying-for-live-stream-chat.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/technology/personaltech/paying-for-live-stream-chat.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13vidgame1/13vidgame1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Andre Rebelo, live-streams his Grand Theft Auto 5 Mods game at home in Vancouver.</media:description>
+      <media:credit>Rafal Gerszak for The New York Times</media:credit>
+      <description>Dedicated video streaming platforms like YouTube and Twitch are looking for ways to sweeten the deal for streamers so they produce more live content.</description>
+      <dc:creator>LAURA PARKER</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:41:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitch Interactive Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Prices (Fares, Fees and Rates)</category>
+    </item>
+    <item>
+      <title>New Tools Needed to Track Technology&#x2019;s Impact on Jobs, Panel Says</title>
+      <link>https://www.nytimes.com/2017/04/13/technology/artificial-intelligence-automation-report.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/technology/artificial-intelligence-automation-report.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/technology/artificial-intelligence-automation-report.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/14/business/14work2/14work2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Automation fears have stirred many fanciful visions of the future. An expert panel calls for new tools of analysis to help workers adapt.</media:description>
+      <media:credit>Kristian Hammerstad</media:credit>
+      <description>The nation is &#x201C;flying blind&#x201D; into a new era of automation and artificial intelligence, the authors of a National Academies study warned.</description>
+      <dc:creator>STEVE LOHR</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 17:38:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brynjolfsson, Erik</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mitchell, Tom</category>
+    </item>
+    <item>
+      <title>Tech We're Using: The Apps That Make Keeping Up With Soccer Easier</title>
+      <link>https://www.nytimes.com/2017/04/12/technology/personaltech/the-apps-that-make-keeping-up-with-soccer-easier.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/technology/personaltech/the-apps-that-make-keeping-up-with-soccer-easier.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/technology/personaltech/the-apps-that-make-keeping-up-with-soccer-easier.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13TECHUSING1/13TECHUSING1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rory Smith using his Apple iPad outside Stamford Bridge, home of Chelsea FC, in London.</media:description>
+      <media:credit>Tom Jamieson for The New York Times</media:credit>
+      <description>The video-streaming apps Virgin Anywhere and Sky Sports Mobile TV are a boon for a soccer reporter, or a fan.</description>
+      <dc:creator>RORY SMITH</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:02:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sky PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Virgin Media Inc</category>
+    </item>
+    <item>
+      <title>Bits: Tech Roundup: Paying Up to $500 to Chat With a Live Streamer</title>
+      <link>https://www.nytimes.com/2017/04/13/technology/tech-roundup-paying-up-to-500-to-chat-with-a-live-streamer.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/technology/tech-roundup-paying-up-to-500-to-chat-with-a-live-streamer.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/technology/tech-roundup-paying-up-to-500-to-chat-with-a-live-streamer.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13vidgame1/13vidgame1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Andre Rebelo, live-streams his Grand Theft Auto 5 Mods game at home in Vancouver.</media:description>
+      <media:credit>Rafal Gerszak for The New York Times</media:credit>
+      <description>YouTube&#x2019;s Super Chat feature gives creators on the video site a new way to make money by charging audience members to have their comments highlighted during live streams.</description>
+      <dc:creator>PUI-WING TAM</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 16:32:32 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computer and Video Games</category>
+    </item>
+    <item>
+      <title>Tech Tip: Send Some Sass With That Text Message</title>
+      <link>https://www.nytimes.com/2017/04/13/technology/personaltech/send-some-sass-with-that-text-message.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/technology/personaltech/send-some-sass-with-that-text-message.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/technology/personaltech/send-some-sass-with-that-text-message.html?partner=rss&amp;emc=rss"/>
+      <description>Apple&#x2019;s own texting app for iOS 10 includes easy ways to liven up your interactions with other iMessage users.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 16:11:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Text Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+    </item>
+    <item>
+      <title>Uber Sees an Executive Exodus as It Faces Questions of Workplace Culture</title>
+      <link>http://www.nytimes.com/2017/04/12/technology/uber-executives-leaving-company.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/technology/uber-executives-leaving-company.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/technology/uber-executives-leaving-company.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/technology/oakImage-1492007407924/oakImage-1492007407924-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Outside Uber&#x2019;s headquarters in San Francisco.</media:description>
+      <media:credit>Eric Risberg/Associated Press</media:credit>
+      <description>In the last three months, several high-ranking managers have left the ride-hailing company. At least one has been openly critical about the way the company has been run.</description>
+      <dc:creator>MIKE ISAAC</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:18:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+    </item>
+    <item>
+      <title>Trilobites: A Lizard With Scales That Behave Like a Computer Simulation</title>
+      <link>https://www.nytimes.com/2017/04/12/science/ocellated-lizards-scales-cellular-automata.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/science/ocellated-lizards-scales-cellular-automata.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/science/ocellated-lizards-scales-cellular-automata.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/science/13tb-lizard01/13tb-lizard01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An ocellated lizard. Their scales change from brown and white to black and green as they get older, and scientists say they appear to follow a pattern that is similar to a computer simulation.</media:description>
+      <media:credit>Michel Milinkovitch</media:credit>
+      <description>Two mathematical models converge to illuminate the process through which an ocellated lizard&#x2019;s scales repeatedly change color.</description>
+      <dc:creator>STEPH YIN</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:00:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lizards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milinkovitch, Michel C</category>
+    </item>
+    <item>
+      <title>Bits: Tech Roundup: Advances for Airlines Aren&#x2019;t Helping Customer Service</title>
+      <link>http://www.nytimes.com/2017/04/12/technology/tech-roundup-advances-for-airlines-arent-helping-customer-service.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/technology/tech-roundup-advances-for-airlines-arent-helping-customer-service.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/technology/tech-roundup-advances-for-airlines-arent-helping-customer-service.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13bitsdaily-web/13bitsdaily-web-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Online check-in, airport kiosks and apps allow airlines to serve customers with fewer and fewer workers.</media:description>
+      <media:credit>Justin Sullivan/Getty Images</media:credit>
+      <description>Online check-ins, airport kiosks and the like are divorcing travelers from human workers, with the effort to drag a passenger off a United Airlines flight the culmination.</description>
+      <dc:creator>PUI-WING TAM</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 16:48:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Alere Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+    </item>
+    <item>
+      <title>Tech Tip: Reading E-Books on a Bigger Screen</title>
+      <link>http://www.nytimes.com/2017/04/12/technology/personaltech/reading-e-books-on-a-bigger-screen.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/technology/personaltech/reading-e-books-on-a-bigger-screen.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/technology/personaltech/reading-e-books-on-a-bigger-screen.html?partner=rss&amp;emc=rss"/>
+      <description>If you dislike reading on a phone or tablet, you can likely read your electronic books and magazines on your computer&#x2019;s display instead.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 16:21:26 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Books and Readers</category>
+    </item>
+    <item>
+      <title>Burger King &#x2018;O.K. Google&#x2019; Ad Doesn&#x2019;t Seem O.K. With Google</title>
+      <link>https://www.nytimes.com/2017/04/12/business/burger-king-tv-ad-google-home.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/business/burger-king-tv-ad-google-home.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/business/burger-king-tv-ad-google-home.html?partner=rss&amp;emc=rss"/>
+      <description>The commercial was a novel but potentially invasive marketing tactic that came as more Americans use voice-activated devices.</description>
+      <dc:creator>SAPNA MAHESHWARI</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 00:06:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Burger King Corp</category>
+    </item>
+    <item>
+      <title>Imagining the Retail Store of the Future</title>
+      <link>https://www.nytimes.com/2017/04/12/fashion/store-of-the-future.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/fashion/store-of-the-future.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/fashion/store-of-the-future.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/fashion/13STORE/13STORE-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Otto Steininger</media:credit>
+      <description>Will it have robots? No checkout counters? Virtual fitting rooms? Almost anything seems possible.</description>
+      <dc:creator>ELIZABETH PATON</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 06:19:54 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Shopping and Retail</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fashion and Apparel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Delivery Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Luxury Goods and Services</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Farfetch.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Gucci</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lord &amp; Taylor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Yoox Group SpA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chapman, Tom (Fashion Executive)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Yoox Net-a-Porter Group SpA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Valentino Fashion Group SpA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Holition Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Neves, Jose</category>
+    </item>
+    <item>
+      <title>Tesla&#x2019;s Market Surge Has Even Fans Looking for Feet of Clay</title>
+      <link>http://www.nytimes.com/2017/04/11/business/tesla-stock-elon-musk.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/business/tesla-stock-elon-musk.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/business/tesla-stock-elon-musk.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/business/12TESLA1-print/12TESLA1-print-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Dennis Pascual with his Tesla Model S in the driveway of his home in Long Beach, Calif. An owner of two Teslas, he nonetheless said that the company&#x2019;s stock was &#x201C;a little pricey.&#x201D;</media:description>
+      <media:credit>Andrew Cullen for The New York Times</media:credit>
+      <description>Investors have been energized by the electric-car maker&#x2019;s upbeat outlook for delivering its mass-market model. Now its chief, Elon Musk, must deliver.</description>
+      <dc:creator>NEAL E. BOUDETTE</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 01:01:24 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+    </item>
+    <item>
+      <title>Executive Who Steered Uber Through Scandals Joins Exodus</title>
+      <link>http://www.nytimes.com/2017/04/11/technology/ubers-head-of-policy-and-communications-joins-executive-exodus.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/technology/ubers-head-of-policy-and-communications-joins-executive-exodus.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/technology/ubers-head-of-policy-and-communications-joins-executive-exodus.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/business/12uber/12uber-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rachel Whetstone, who is leaving her post as head of Uber&#x2019;s policy and communications, in 2012.</media:description>
+      <media:credit>Toru Yamanaka/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Travis Kalanick, chief executive of the ride-sharing service, said Rachel Whetstone, the company&#x2019;s head of policy and communications, was leaving of her own volition.</description>
+      <dc:creator>MIKE ISAAC</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 00:55:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+    </item>
+    <item>
+      <title>Border Officers Nearly Double Searches of Electronic Devices, U.S. Says</title>
+      <link>http://www.nytimes.com/2017/04/11/us/border-customs-officers-electronic-devises-search.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/us/border-customs-officers-electronic-devises-search.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/us/border-customs-officers-electronic-devises-search.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/us/12border/12border-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A Customs and Border Protection officer inspected a car entering the United States at the border at San Ysidro, Calif.</media:description>
+      <media:credit>Justin Sullivan/Getty Images</media:credit>
+      <description>There were nearly 15,000 searches at border crossings and airports from October to March &#x2014; up from 8,383 a year before, Customs and Border Protection said.</description>
+      <dc:creator>RON NIXON</dc:creator>
+      <pubDate>Tue, 11 Apr 2017 21:43:25 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Search and Seizure</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fourth Amendment (US Constitution)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Immigration and Customs Enforcement (US)</category>
+    </item>
+    <item>
+      <title>Bits: Tech Roundup: The Vast Criminal Enterprise Lurking Behind Spam Emails</title>
+      <link>http://www.nytimes.com/2017/04/11/technology/tech-roundup-the-vast-criminal-enterprise-lurking-behind-spam-emails.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/technology/tech-roundup-the-vast-criminal-enterprise-lurking-behind-spam-emails.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/technology/tech-roundup-the-vast-criminal-enterprise-lurking-behind-spam-emails.html?partner=rss&amp;emc=rss"/>
+      <description>The Department of Justice accused a Russian of being a mastermind behind an enormous spam email operation that officials said drained people&#x2019;s bank accounts.</description>
+      <dc:creator>PUI-WING TAM</dc:creator>
+      <pubDate>Tue, 11 Apr 2017 17:53:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spam (Electronic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Mail</category>
+    </item>
+    <item>
+      <title>Yahoo Is Sued Over $17 Million Fund for Chinese Dissidents</title>
+      <link>http://www.nytimes.com/2017/04/11/business/yahoo-lawsuit-china-dissidents-fund.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/business/yahoo-lawsuit-china-dissidents-fund.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/business/yahoo-lawsuit-china-dissidents-fund.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/us/12chinayahoo/12chinayahoo-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Harry Wu in 2011. A lawsuit against Yahoo says that Mr. Wu, who died last year, misspent money set aside for a foundation that Yahoo created to aid Chinese dissidents.</media:description>
+      <media:credit>Mandel Ngan/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Activists said the company failed to properly oversee the fund it created to help Chinese writers, democracy advocates and human rights lawyers persecuted for standing up to the country&#x2019;s government.</description>
+      <dc:creator>ANDREW JACOBS</dc:creator>
+      <pubDate>Tue, 11 Apr 2017 17:43:51 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Yahoo! Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Political Prisoners</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Human Rights and Human Rights Violations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wu, Harry</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Yang, Jerry</category>
+    </item>
+    <item>
+      <title>Tech Tip: A Hangout for Old Desktop Notifications</title>
+      <link>http://www.nytimes.com/2017/04/11/technology/personaltech/a-hangout-for-old-desktop-notifications.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/technology/personaltech/a-hangout-for-old-desktop-notifications.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/technology/personaltech/a-hangout-for-old-desktop-notifications.html?partner=rss&amp;emc=rss"/>
+      <description>If the pop-up alerts that bring you news and information from your Mac&#x2019;s apps disappear before you can read them, check the Notifications Center.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Tue, 11 Apr 2017 16:25:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Desktop Computers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Microsoft Corp</category>
+    </item>
+    <item>
+      <title>Deal by Chinese Tech Company LeEco for Vizio Dies</title>
+      <link>http://www.nytimes.com/2017/04/11/business/dealbook/vizio-leeco-tv-deal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/business/dealbook/vizio-leeco-tv-deal.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/business/dealbook/vizio-leeco-tv-deal.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/business/12leeco/12leeco-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>LeEco, which has investments in products from telephones to cars, said it would not buy the American television maker Vizio.</media:description>
+      <media:credit>Beck Diefenbach/Reuters</media:credit>
+      <description>The ambitious conglomerate, which said unspecified regulatory problems had derailed the American TV acquisition, grew quickly but its cash has dwindled.</description>
+      <dc:creator>RYAN McMORROW</dc:creator>
+      <pubDate>Tue, 11 Apr 2017 15:24:29 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Wujin Leeco Electronics Co Ltd</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">VIZIO Inc.</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+    </item>
+    <item>
+      <title>Toshiba Casts Doubt on Its Ability to Stay in Business</title>
+      <link>http://www.nytimes.com/2017/04/11/business/dealbook/toshiba-foxconn-chips-deal.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/business/dealbook/toshiba-foxconn-chips-deal.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/business/dealbook/toshiba-foxconn-chips-deal.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/business/12toshiba/12toshiba-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>One of the better-known suitors for Toshiba&#x2019;s chip unit is Hon Hai Precision Industry, also known as Foxconn.</media:description>
+      <media:credit>Kim Kyung Hoon/Reuters</media:credit>
+      <description>Struggling after a disastrous foray into nuclear power, the company hopes a sale of part of its microchip business, its crown jewel, could alleviate uncertainty.</description>
+      <dc:creator>JONATHAN SOBLE and PAUL MOZUR</dc:creator>
+      <pubDate>Tue, 11 Apr 2017 17:04:57 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Foxconn Technology</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">TOSHIBA Corporation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Chips</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Japan</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electronics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mergers, Acquisitions and Divestitures</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nuclear Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Westinghouse Electric Co</category>
+    </item>
+    <item>
+      <title>First Words: New Technology Is Built on a &#x2018;Stack.&#x2019; Is That the Best Way to Understand Everything Else, Too?</title>
+      <link>http://www.nytimes.com/2017/04/11/magazine/new-technology-is-built-on-a-stack-is-that-the-best-way-to-understand-everything-else-too.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/magazine/new-technology-is-built-on-a-stack-is-that-the-best-way-to-understand-everything-else-too.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/magazine/new-technology-is-built-on-a-stack-is-that-the-best-way-to-understand-everything-else-too.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/16/magazine/16firstwords/16mag-16firstwords-t_CA0-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Javier Ja&#xE9;n</media:credit>
+      <description>People from nutrition geeks to philosophers are using a metaphor from software to describe the world.</description>
+      <dc:creator>JOHN HERRMAN</dc:creator>
+      <pubDate>Tue, 11 Apr 2017 09:00:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Software</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">English Language</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+    </item>
+    <item>
+      <title>That Fingerprint Sensor on Your Phone Is Not as Safe as You Think</title>
+      <link>http://www.nytimes.com/2017/04/10/technology/fingerprint-security-smartphones-apple-google-samsung.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/10/technology/fingerprint-security-smartphones-apple-google-samsung.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/10/technology/fingerprint-security-smartphones-apple-google-samsung.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/business/11fingerprint3/11fingerprint3-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Nasir Memon, a professor of computer science and engineering at New York University, said his research into master fingerprints suggested that the security on iPhones and Android phones could be easily cracked.</media:description>
+      <media:credit>Roger Kisby for The New York Times</media:credit>
+      <description>New research suggests that the fingerprint security features on iPhones and Android devices can be easily fooled by so-called MasterPrint fakes.</description>
+      <dc:creator>VINDU GOEL</dc:creator>
+      <pubDate>Tue, 11 Apr 2017 03:45:33 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Fingerprinting</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Identification Devices</category>
+    </item>
+    <item>
+      <title>U.S. Accuses Russian Email Spammer of Vast Network of Fraud</title>
+      <link>http://www.nytimes.com/2017/04/10/technology/us-arrest-russian-email-spam-peter-levashov.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/10/technology/us-arrest-russian-email-spam-peter-levashov.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/10/technology/us-arrest-russian-email-spam-peter-levashov.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/11/us/11botnet/11botnet-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump boarded Air Force One on Sunday. The Justice Department&#x2019;s accusations against a Russian email spammer are sure to raise tensions when Secretary of State Rex W. Tillerson visits Moscow this week.</media:description>
+      <media:credit>Doug Mills/The New York Times</media:credit>
+      <description>Peter Levashov, 36, arrested on vacation in Spain, is charged with wire fraud and unauthorized interception of electronic communications.</description>
+      <dc:creator>MICHAEL SCHWIRTZ</dc:creator>
+      <pubDate>Tue, 11 Apr 2017 01:53:38 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Levashov, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Spam (Electronic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+    </item>
+    <item>
+      <title>Bits: Tech Roundup: Canada Spends to Keep A.I. Experts Home</title>
+      <link>http://www.nytimes.com/2017/04/10/technology/tech-roundup-canada-spends-to-keep-ai-experts-home.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/10/technology/tech-roundup-canada-spends-to-keep-ai-experts-home.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/10/technology/tech-roundup-canada-spends-to-keep-ai-experts-home.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/08/business/10CANADAAI1/10CANADAAI1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Mars Discovery District in Toronto is one of the world&#x2019;s largest innovation hubs. After years of losing its artificial intelligence scientists and start-ups to Silicon Valley, Canada is focusing on keeping its A.I. leaders in the country.</media:description>
+      <media:credit>Aaron Vincent Elkaim for The New York Times</media:credit>
+      <description>Canadian researchers have played a major role in developing artificial intelligence. Now the government is helping to create research centers to retain them.</description>
+      <dc:creator>PUI-WING TAM</dc:creator>
+      <pubDate>Mon, 10 Apr 2017 16:19:35 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Edmonton (Alberta)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Montreal (Quebec)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Toronto (Ontario)</category>
+    </item>
+    <item>
+      <title>Tech Tip: Yes, Another Windows 10 Update Is Here</title>
+      <link>http://www.nytimes.com/2017/04/10/technology/personaltech/yes-another-windows-10-update-is-here.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/10/technology/personaltech/yes-another-windows-10-update-is-here.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/10/technology/personaltech/yes-another-windows-10-update-is-here.html?partner=rss&amp;emc=rss"/>
+      <description>Microsoft is now rolling out the Windows 10 Creators Update, a new version of its flagship operating system.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Mon, 10 Apr 2017 16:01:07 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Windows (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Microsoft Corp</category>
+    </item>
+    <item>
+      <title>Tesla Hits a New Milestone, Passing G.M. in Valuation</title>
+      <link>http://www.nytimes.com/2017/04/10/business/tesla-general-motors-stock-market.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/10/business/tesla-general-motors-stock-market.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/10/business/tesla-general-motors-stock-market.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/05/business/00TESLAGM/00TESLAGM-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Tesla Model S sedan at a showroom in San Francisco. Investors are betting that the company has room to grow as the world&#x2019;s appetite for electric vehicles expands.</media:description>
+      <media:credit>David Paul Morris/Bloomberg</media:credit>
+      <description>After passing Ford Motor a week ago, the electric car company edged past General Motors in early trading, with a market capitalization of $50.9 billion.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Mon, 10 Apr 2017 14:51:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Electric and Hybrid Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tesla Motors Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Ford Motor Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Musk, Elon</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Stocks and Bonds</category>
+    </item>
+    <item>
+      <title>Spain Arrests Russian Thought to Be Kingpin of Computer Spam</title>
+      <link>http://www.nytimes.com/2017/04/09/world/europe/peter-severa-levahsov-russia-arrest.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/09/world/europe/peter-severa-levahsov-russia-arrest.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/09/world/europe/peter-severa-levahsov-russia-arrest.html?partner=rss&amp;emc=rss"/>
+      <description>Western cybersecurity researchers have identified the man being held, Peter Levashov, as the spammer known as Peter Severa, though some doubt he is the same person.</description>
+      <dc:creator>ANDREW E. KRAMER</dc:creator>
+      <pubDate>Mon, 10 Apr 2017 00:12:14 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Levashov, Peter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Spam (Electronic)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computer Security</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Spain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Federal Bureau of Investigation</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Frauds and Swindling</category>
+    </item>
+    <item>
+      <title>Canada Tries to Turn Its A.I. Ideas Into Dollars</title>
+      <link>http://www.nytimes.com/2017/04/09/technology/canada-artificial-intelligence.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/09/technology/canada-artificial-intelligence.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/09/technology/canada-artificial-intelligence.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/08/business/10CANADAAI1/10CANADAAI1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Mars Discovery District in Toronto is one of the world&#x2019;s largest innovation hubs. After years of losing its artificial intelligence scientists and start-ups to Silicon Valley, Canada is focusing on keeping its A.I. leaders in the country.</media:description>
+      <media:credit>Aaron Vincent Elkaim for The New York Times</media:credit>
+      <description>Today&#x2019;s striking advances in artificial intelligence owe a lot to research in Canada over the years. But the country has so far failed to cash in.</description>
+      <dc:creator>STEVE LOHR</dc:creator>
+      <pubDate>Sun, 09 Apr 2017 19:14:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Canada</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Venture Capital</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Deep Genomics Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Atomwise Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Vector Institute for Artificial Intelligence</category>
+    </item>
+    <item>
+      <title>Hacking Attack Woke Up Dallas With Emergency Sirens, Officials Say</title>
+      <link>http://www.nytimes.com/2017/04/08/us/dallas-emergency-sirens-hacking.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/08/us/dallas-emergency-sirens-hacking.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/08/us/dallas-emergency-sirens-hacking.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/08/us/00xp-dallashack/00xp-dallashack-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Warning sirens in Dallas, meant to alert the public to emergencies like severe weather, started sounding around 11:40 p.m. Friday, and were not shut off until 1:20 a.m.</media:description>
+      <media:credit>Rex C. Curry for The New York Times</media:credit>
+      <description>All 156 of the city&#x2019;s sirens, which are meant to alert severe weather or other emergencies, sounded into the early hours of Saturday morning.</description>
+      <dc:creator>ELI ROSENBERG and MAYA SALAM</dc:creator>
+      <pubDate>Sun, 09 Apr 2017 00:50:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Dallas (Tex)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cyberattacks and Hackers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">False Alarms</category>
+    </item>
+    <item>
+      <title>Bits: Farhad&#x2019;s and Mike&#x2019;s Week in Tech: Why We&#x2019;ll Miss Walt Mossberg</title>
+      <link>http://www.nytimes.com/2017/04/08/technology/farhads-and-mikes-week-in-tech-why-well-miss-walt-mossberg.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/08/technology/farhads-and-mikes-week-in-tech-why-well-miss-walt-mossberg.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/08/technology/farhads-and-mikes-week-in-tech-why-well-miss-walt-mossberg.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/08/us/09technewsletter-mossberg2/09technewsletter-mossberg2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Veteran tech journalists Walt Mossberg, left, and Kara Swisher with Jim Bankoff, chief executive of Vox.</media:description>
+      <media:credit>Kendrick Brinson for The New York Times</media:credit>
+      <description>Twitter fights the government, Google fights Uber, and we fight back tears over a tech columnist&#x2019;s retirement.</description>
+      <dc:creator>FARHAD MANJOO and MIKE ISAAC</dc:creator>
+      <pubDate>Sat, 08 Apr 2017 13:00:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mossberg, Walter S</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Waymo</category>
+    </item>
+    <item>
+      <title>When Solar Panels Became Job Killers</title>
+      <link>http://www.nytimes.com/2017/04/08/business/china-trade-solar-panels.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/08/business/china-trade-solar-panels.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/08/business/china-trade-solar-panels.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/09/business/09chinasolar1/09chinasolar1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Workers for Wuhan Guangsheng Photovoltaic Company installing solar panels on a roof in Wuhan, China. China is home to two-thirds of the world&#x2019;s solar-production capacity, and buys half of the world&#x2019;s new solar panels.</media:description>
+      <media:credit>Giulia Marchi for The New York Times</media:credit>
+      <description>A policy change in China hurt workers in Ohio, revealing the trade challenges facing President Trump.</description>
+      <dc:creator>KEITH BRADSHER</dc:creator>
+      <pubDate>Sat, 08 Apr 2017 04:01:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Solar Energy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">China</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_keyword">Made in China 2025</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">First Solar Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Alternative and Renewable Energy</category>
+    </item>
+    <item>
+      <title>Applied Science: Damaging Your Phone, Accidentally on Purpose</title>
+      <link>http://www.nytimes.com/2017/04/07/your-money/iphones-upgrades-carelessness-neglect.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/07/your-money/iphones-upgrades-carelessness-neglect.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/07/your-money/iphones-upgrades-carelessness-neglect.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/02/business/02Applied/02Applied-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Michael Waraksa</media:credit>
+      <description>Consumers are more likely to be careless with products when they know an upgrade is available, research has found.</description>
+      <dc:creator>PHYLLIS KORKKI</dc:creator>
+      <pubDate>Fri, 07 Apr 2017 21:09:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Smartphones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Journal of Marketing Research</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Bellezza, Silvia</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ackerman, Joshua A</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gino, Francesca</category>
+    </item>
+    <item>
+      <title>Preoccupations: I&#x2019;m Not Texting. I&#x2019;m Taking Notes.</title>
+      <link>http://www.nytimes.com/2017/04/07/jobs/texting-work-meetings-social-media.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/07/jobs/texting-work-meetings-social-media.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/07/jobs/texting-work-meetings-social-media.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/09/business/09Pre/09Pre-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Vidhya Nagarajan</media:credit>
+      <description>Generations are different, and for digital natives, what looks like wasting time may actually be doing research or something else productive.</description>
+      <dc:creator>JONAH STILLMAN</dc:creator>
+      <pubDate>Fri, 07 Apr 2017 21:06:49 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Text Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Education (K-12)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+    </item>
+    <item>
+      <title>Bits: Tech Roundup: The U.S. Blinks in Standoff With Twitter</title>
+      <link>http://www.nytimes.com/2017/04/07/technology/tech-roundup-the-us-blinks-in-standoff-with-twitter.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/07/technology/tech-roundup-the-us-blinks-in-standoff-with-twitter.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/07/technology/tech-roundup-the-us-blinks-in-standoff-with-twitter.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/08/business/08TWITTER/08TWITTER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Twitter app. The social media company sued the government after receiving a summons seeking information about who was behind an anonymous account critical of the Trump administration.</media:description>
+      <media:credit>Marcio Jose Sanchez/Associated Press</media:credit>
+      <description>The company sued after received a summons to disclose the user behind an account critical of President Trump that claimed to have ties to a government agency. A day later the government withdrew the summons.</description>
+      <dc:creator>JIM KERSTETTER</dc:creator>
+      <pubDate>Fri, 07 Apr 2017 19:31:11 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Homeland Security Department</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitter</category>
+    </item>
+    <item>
+      <title>U.S. Blinks in Clash With Twitter; Drops Order to Unmask Anti-Trump Account</title>
+      <link>http://www.nytimes.com/2017/04/07/technology/us-blinks-in-clash-with-twitter-drops-order-to-unmask-anti-trump-account.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/07/technology/us-blinks-in-clash-with-twitter-drops-order-to-unmask-anti-trump-account.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/07/technology/us-blinks-in-clash-with-twitter-drops-order-to-unmask-anti-trump-account.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/08/business/08TWITTER/08TWITTER-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Twitter app. The social media company sued the government after receiving a summons seeking information about who was behind an anonymous account critical of the Trump administration.</media:description>
+      <media:credit>Marcio Jose Sanchez/Associated Press</media:credit>
+      <description>A day after Twitter sued to block a summons seeking information about who was behind an anonymous account, the federal government withdrew the summons.</description>
+      <dc:creator>MIKE ISAAC</dc:creator>
+      <pubDate>Fri, 07 Apr 2017 21:15:19 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitter</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Privacy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Customs and Border Protection (US)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+    </item>
+    <item>
+      <title>Tech Tip: An Alternate Plan in Case of a 911 Failure</title>
+      <link>http://www.nytimes.com/2017/04/07/technology/personaltech/mobile-phones-911-alternate-plan.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/07/technology/personaltech/mobile-phones-911-alternate-plan.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/07/technology/personaltech/mobile-phones-911-alternate-plan.html?partner=rss&amp;emc=rss"/>
+      <description>Mobile carriers have had occasional trouble routing emergency calls to 911 centers, but you can plan ahead for a possible service disruption.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Fri, 07 Apr 2017 17:19:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Emergency Telephone Numbers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Wireless Communications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Cellular Telephones</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Nine-One-One (911) (Emergency Phone Number)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Telephones and Telecommunications</category>
+    </item>
+    <item>
+      <title>Uber Denies It Is Using Stolen Waymo Technology</title>
+      <link>http://www.nytimes.com/2017/04/07/business/uber-waymo-self-driving-car-technology.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/07/business/uber-waymo-self-driving-car-technology.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/07/business/uber-waymo-self-driving-car-technology.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/08/business/08waymo2/08waymo2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An Uber autonomous car driving in San Francisco earlier this year. The lidar sensors on the car&#x2019;s roof are at the center of a legal dispute between Uber and Waymo.</media:description>
+      <media:credit>Justin Sullivan/Getty Images</media:credit>
+      <description>The ride-hailing service said it started developing its own self-driving car systems before hiring an ex-Google employee accused of the theft.</description>
+      <dc:creator>DAISUKE WAKABAYASHI and MIKE ISAAC</dc:creator>
+      <pubDate>Fri, 07 Apr 2017 19:59:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Waymo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Driverless and Semiautonomous Vehicles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Levandowski, Anthony</category>
+    </item>
+    <item>
+      <title>Does Uber Really Prevent Drunken Driving? It Depends on the Study</title>
+      <link>http://www.nytimes.com/2017/04/07/business/uber-drunk-driving-prevention.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/07/business/uber-drunk-driving-prevention.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/07/business/uber-drunk-driving-prevention.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/08/nyregion/08xp-uber/08xp-uber-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Some studies say Uber ride-hailing services have reduced drunken driving accidents, but researchers say more data is needed.</media:description>
+      <media:credit>Sam Hodgson for The New York Times</media:credit>
+      <description>The ride-hailing company says its services can prevent alcohol-related car accidents, and some researchers agree &#x2014; but not all.</description>
+      <dc:creator>JACEY FORTIN</dc:creator>
+      <pubDate>Fri, 07 Apr 2017 16:27:43 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Drunken and Reckless Driving</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Car Services and Livery Cabs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kalanick, Travis</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+    </item>
+  </channel>
+</rss>

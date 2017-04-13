@@ -1,0 +1,365 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Sports</title>
+    <link>https://www.nytimes.com/section/sports?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Sports.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Thu, 13 Apr 2017 17:52:47 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Sports</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>https://www.nytimes.com/section/sports?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>Sports of The Times: Knicks vs. 76ers: A Battle of Losing Philosophies</title>
+      <link>https://www.nytimes.com/2017/04/13/sports/basketball/knicks-76ers-nba.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/sports/basketball/knicks-76ers-nba.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/sports/basketball/knicks-76ers-nba.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/14/sports/14Powell/14Powell-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Carmelo Anthony (7) might have played his final game in a Knicks&#x2019; uniform in Wednesday&#x2019;s regular-season finale.</media:description>
+      <media:credit>Ben Solomon for The New York Times</media:credit>
+      <description>Although the Knicks beat the Philadelphia 76ers on Wednesday night, the victory meant nothing. It was the contrast in team philosophies that was striking.</description>
+      <dc:creator>MICHAEL POWELL</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 13:46:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Knicks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Philadelphia 76ers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anthony, Carmelo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hornacek, Jeff</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Jackson, Phil (1945- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brown, Brett (1961- )</category>
+    </item>
+    <item>
+      <title>N.B.A. Playoffs 2017: Who We Think Will Win</title>
+      <link>https://www.nytimes.com/2017/04/13/sports/nba-playoffs-schedule-preview.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/sports/nba-playoffs-schedule-preview.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/sports/nba-playoffs-schedule-preview.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/19/sports/14NBAPreview-01/14NBAPreview-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Stephen Curry leads the Golden State Warriors back into the N.B.A. playoffs looking for another title.</media:description>
+      <media:credit>Marcio Jose Sanchez/Associated Press</media:credit>
+      <description>Will the Cavaliers and Warriors meet in the finals again? Who will win the superstar battle between Russell Westbrook and James Harden?</description>
+      <dc:creator>BENJAMIN HOFFMAN</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 13:33:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Basketball Assn</category>
+    </item>
+    <item>
+      <title>James Kaprielian, Yankees Top Pitching Prospect, Will Undergo Tommy John Surgery</title>
+      <link>https://www.nytimes.com/2017/04/13/sports/baseball/james-kaprielian-yankees-tommy-john-surgery.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/sports/baseball/james-kaprielian-yankees-tommy-john-surgery.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/sports/baseball/james-kaprielian-yankees-tommy-john-surgery.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/14/sports/14Kaprielian/14Kaprielian-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Yankees pitching prospect James Kaprielian throwing during spring training.</media:description>
+      <media:credit>Matt Rourke/Associated Press</media:credit>
+      <description>Kaprielian, who has pitched well this spring, complained of elbow pain last week and will be shut down for the rest of the season.</description>
+      <dc:creator>BILLY WITZ</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 16:05:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kaprielian, James</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Yankees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Injuries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+    </item>
+    <item>
+      <title>Is Russell Westbrook&#x2019;s Season the Best Ever? Some Apples and Oranges to Pick From</title>
+      <link>https://www.nytimes.com/2017/04/12/sports/russell-westbrook-greatest-season-sports.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/sports/russell-westbrook-greatest-season-sports.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/sports/russell-westbrook-greatest-season-sports.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/sports/12seasons8/12seasons8-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Bettmann Archive, via Getty Images</media:credit>
+      <description>Westbrook's rather outrageous regular season must be considered the single greatest season by any athlete ever, right? No? Here are some other contenders.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 16:12:46 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Westbrook, Russell</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Oklahoma City Thunder</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Athletics and Sports</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Aaron, Hank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Chamberlain, Wilt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Navratilova, Martina</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">American Pharoah (Race Horse)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Orr, Bobby</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Woods, Tiger</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Stewart, Breanna (1994- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ronaldo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ruth, Babe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Petty, Richard</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Phelps, Michael</category>
+    </item>
+    <item>
+      <title>Celtics Edge Cavaliers for the Top Seed in the Eastern Conference</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/basketball/nba-playoff-matchups-celtics-cavaliers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/basketball/nba-playoff-matchups-celtics-cavaliers.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/basketball/nba-playoff-matchups-celtics-cavaliers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/13nbaweb/13nbaweb-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Celtics forward Amir Johnson dunking in the second half of Boston&#x2019;s 112-94 victory over Milwaukee in the regular season finale. The Celtics edged the Cavaliers for the top seed in the Eastern Conference.</media:description>
+      <media:credit>Winslow Townson/USA Today Sports, via Reuters</media:credit>
+      <description>Boston beat Milwaukee and Cleveland lost to Toronto on the final day of the N.B.A.&#x2019;s regular season, for which several teams rested their best players.</description>
+      <dc:creator>SCOTT CACCIOLA</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 03:56:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Boston Celtics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Cleveland Cavaliers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Golden State Warriors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Houston Rockets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Oklahoma City Thunder</category>
+    </item>
+    <item>
+      <title>In Sports, Boston Is Now Second to None</title>
+      <link>https://www.nytimes.com/2017/04/13/sports/basketball/boston-sports-titles-celtics-patriots-red-sox-bruins.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/sports/basketball/boston-sports-titles-celtics-patriots-red-sox-bruins.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/sports/basketball/boston-sports-titles-celtics-patriots-red-sox-bruins.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/14/sports/14Boston-01/14Boston-01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Celtics forward Gerald Green went in for a dunk against the Bucks on Wednesday night in Boston.</media:description>
+      <media:credit>CJ Gunther/European Pressphoto Agency</media:credit>
+      <description>It&#x2019;s a good time to be a sports fan in the city. But it wasn&#x2019;t always that way.</description>
+      <dc:creator>VICTOR MATHER</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 14:00:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Boston (Mass)</category>
+    </item>
+    <item>
+      <title>Vegas Golden Knights, N.H.L. Expansion Team, Hire Head Coach</title>
+      <link>https://www.nytimes.com/2017/04/13/sports/hockey/gerard-gallant-vegas-golden-knights-first-coach.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/sports/hockey/gerard-gallant-vegas-golden-knights-first-coach.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/sports/hockey/gerard-gallant-vegas-golden-knights-first-coach.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/14/sports/14Knights/14Knights-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Gerard Gallant coached the Florida Panthers from 2014 to 2016 and won a coach of the year award; he was fired in November after an 11-10-1 start.</media:description>
+      <media:credit>Mike Ehrmann/Getty Images</media:credit>
+      <description>The team hired Gerard Gallant, most recently the head coach of the Florida Panthers, who fired him on Nov. 28 after they stumbled to an 11-10-1 start.</description>
+      <dc:creator>TAL PINCHEVSKY</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 16:04:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Vegas Golden Knights</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gallant, Gerard</category>
+    </item>
+    <item>
+      <title>Forgettable Knicks&#x2019; Season Ends, but Bonds Remain</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/forgettable-knicks-season-ends-but-bonds-remain.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/forgettable-knicks-season-ends-but-bonds-remain.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/forgettable-knicks-season-ends-but-bonds-remain.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/13subrookies4/13subrookies4-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Knicks&#x2019; Mindaugas Kuzminskas immersed himself in New York City.</media:description>
+      <media:credit>Ben Solomon for The New York Times</media:credit>
+      <description>Despite a poor won-loss record, and intrigue about where Carmelo Anthony may end up, New York has been an interesting experience for the team&#x2019;s new players.</description>
+      <dc:creator>MIKE VORKUNOV</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 01:07:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Knicks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Kuzminskas, Mindaugas (1989- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Baker, Ron (1993- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Plumlee, Marshall (1992- )</category>
+    </item>
+    <item>
+      <title>Chicago Cubs Receive First World Series Rings in Team&#x2019;s History</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/baseball/chicago-cubs-world-series-rings.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/baseball/chicago-cubs-world-series-rings.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/baseball/chicago-cubs-world-series-rings.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/13ringsweb1/13ringsweb1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Cubs players and Manager Joe Maddon showing off the World Series championship rings they received before a game against the Dodgers. The inside of the band is etched with the head of a goat, a reference to the ostensible cause of the team&#x2019;s 108-year title drought.</media:description>
+      <media:credit>Tannen Maury/European Pressphoto Agency</media:credit>
+      <description>The first championship Cubs since 1907 and 1908 (when the players received gold pendants) were awarded rings featuring diamonds for each of the 108 years of the club&#x2019;s drought.</description>
+      <dc:creator>TYLER KEPNER</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 02:18:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Chicago Cubs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">World Series</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Memorabilia and Souvenirs</category>
+    </item>
+    <item>
+      <title>Knicks 114, 76ers 113: Knicks, in What Could Be Carmelo Anthony&#x2019;s Finale With Team, Top 76ers</title>
+      <link>http://www.nytimes.com/2017/04/13/sports/basketball/new-york-knicks-philadelphia-76ers-score-114-113-carmelo-anthony.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/13/sports/basketball/new-york-knicks-philadelphia-76ers-score-114-113-carmelo-anthony.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/13/sports/basketball/new-york-knicks-philadelphia-76ers-score-114-113-carmelo-anthony.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/13KNICKS1/13KNICKS1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Carmelo Anthony on the bench during the third quarter. He scored 17 points for the Knicks, but sat out more than 15 minutes at the game&#x2019;s end.</media:description>
+      <media:credit>Ben Solomon for The New York Times</media:credit>
+      <description>Anthony scored 17 points but sat out the final 15 minutes of a 1-point victory as the Knicks finished the season 31-51 and faced the potential loss of their star.</description>
+      <dc:creator>MIKE VORKUNOV</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 05:02:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Anthony, Carmelo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Knicks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Philadelphia 76ers</category>
+    </item>
+    <item>
+      <title>Sports Briefing: Borussia Dortmund Loses a Day After Explosions</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/soccer/borussia-dortmund-monaco-champions-league.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/soccer/borussia-dortmund-monaco-champions-league.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/soccer/borussia-dortmund-monaco-champions-league.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/13SCOREBOARD/13SCOREBOARD-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Borussia Dortmund center-back Marc Bartra had surgery for injuries to his wrist and arm after the team bus was attacked by explosives on Tuesday.</media:description>
+      <media:credit>Marc Bartra/Vippter, via European Pressphoto Agency</media:credit>
+      <description>The club fell to Monaco, 3-2, in the first leg of its Champions League quarterfinal a day after three explosions targeted its bus.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 03:28:48 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">UEFA Champions League (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Terrorism</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Borussia Dortmund (Soccer Team)</category>
+    </item>
+    <item>
+      <title>Mets 5, Phillies 4: Zack Wheeler&#x2019;s Solid Start Helps Mets Edge the Phillies</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/baseball/new-york-mets-philadelphia-phillies-score-5-4-zack-wheeler.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/baseball/new-york-mets-philadelphia-phillies-score-5-4-zack-wheeler.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/baseball/new-york-mets-philadelphia-phillies-score-5-4-zack-wheeler.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/13METS/13METS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Zack Wheeler pitched five scoreless innings before faltering in the sixth, when he showed signs of tiring and loaded the bases.</media:description>
+      <media:credit>Derik Hamilton/Associated Press</media:credit>
+      <description>Wheeler shut out Philadelphia before loading the bases in the sixth inning, and although his relief gave up a grand slam, the Mets&#x2019; one-run advantage held up.</description>
+      <dc:creator>JAMES WAGNER</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 04:47:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Mets</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Injuries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Wheeler, Zack</category>
+    </item>
+    <item>
+      <title>Rangers 2, Canadiens 0: Henrik Lundqvist Stands Firm as Rangers Win Playoff Opener</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/hockey/playoffs-new-york-rangers-montreal-canadiens-score-2-0.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/hockey/playoffs-new-york-rangers-montreal-canadiens-score-2-0.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/hockey/playoffs-new-york-rangers-montreal-canadiens-score-2-0.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/13RANGERS/13RANGERS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Henrik Lundqvist, who had 31 saves, making one in the first period, when the Rangers were outshot, 16-5. Tanner Glass gave him a lead with a first-period goal.</media:description>
+      <media:credit>Ryan Remiorz/The Canadian Press, via Associated Press</media:credit>
+      <description>Lundqvist made 31 saves and Tanner Glass provided all the support he needed with a first-period goal against the Canadiens in Montreal.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 04:00:50 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Montreal Canadiens</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Rangers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Lundqvist, Henrik</category>
+    </item>
+    <item>
+      <title>For Knicks&#x2019; Joakim Noah, a Fitting End to a Bad Season</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/basketball/knicks-joakim-noah-injury-rotator-cuff.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/basketball/knicks-joakim-noah-injury-rotator-cuff.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/basketball/knicks-joakim-noah-injury-rotator-cuff.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/13NOAH/13NOAH-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Joakim Noah injured his shoulder in January and may need surgery for a rotator cuff problem. He averaged 5 points and 8.8 rebounds in 46 games in a disappointing first season with the Knicks.</media:description>
+      <media:credit>Alex Goodlett for The New York Times</media:credit>
+      <description>The team said that Noah, suspended last month for a positive drug test, had had a rotator cuff problem since January and that doctors had recommended surgery.</description>
+      <dc:creator>MIKE VORKUNOV</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 01:30:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Injuries</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Basketball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Noah, Joakim</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Knicks</category>
+    </item>
+    <item>
+      <title>Dortmund Manager Criticizes UEFA for Quick Rescheduling After Bomb Attack</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/soccer/borussia-dortmund-uefa-thomas-tuchel.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/soccer/borussia-dortmund-uefa-thomas-tuchel.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/soccer/borussia-dortmund-uefa-thomas-tuchel.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/13uefa/13uefa-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Borussia Dortmund players applauded fans at their stadium on Wednesday after losing, 3-2, to Monaco in a Champions League quarterfinal. The game was rescheduled from Tuesday after Dortmund&#x2019;s bus was attacked by bombs.</media:description>
+      <media:credit>Dean Mouhtaropoulos/Getty Images</media:credit>
+      <description>Thomas Tuchel, Borussia Dortmund&#x2019;s manager, said his players had wanted more time to recover from the attack on Tuesday, but UEFA said the team had agreed to play the next day.</description>
+      <dc:creator>THE ASSOCIATED PRESS</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 23:34:37 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">UEFA Champions League (Soccer)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Borussia Dortmund (Soccer Team)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Union of European Football Assns (UEFA)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Tuchel, Thomas (1973- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Bombs and Explosives</category>
+    </item>
+    <item>
+      <title>St. Louis Sues N.F.L. Over Rams&#x2019; Departure</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/football/st-louis-nfl-lawsuit-rams-relocation.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/football/st-louis-nfl-lawsuit-rams-relocation.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/football/st-louis-nfl-lawsuit-rams-relocation.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/13RAMS/13RAMS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A championship banner being removed from the Edward Jones Dome in January. The city of St. Louis and others sued the N.F.L. on Wednesday alleging the league and its team owners disregarded efforts to build a replacement for the stadium.</media:description>
+      <media:credit>Jeff Roberson/Associated Press</media:credit>
+      <description>St. Louis and groups in the city say the league violated its own relocation policy when N.F.L. owners voted to let the team leave for Los Angeles.</description>
+      <dc:creator>KEN BELSON</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 23:09:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Football</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Suits and Litigation (Civil)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Los Angeles Rams</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">National Football League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">St Louis (Mo)</category>
+    </item>
+    <item>
+      <title>Yankees 8, Rays 4: Key Play in Yankees&#x2019; Win Leaves Brett Gardner Safe but Out of Action</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/baseball/yankees-rays-brett-gardner.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/baseball/yankees-rays-brett-gardner.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/baseball/yankees-rays-brett-gardner.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/19/sports/13Yankees/13Yankees-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Yankees&#x2019; Brett Gardner, left, colliding with Rays first baseman Rickie Weeks, who was trying to collect an errant throw by pitcher Xavier Cedeno in the sixth inning.</media:description>
+      <media:credit>Julie Jacobson/Associated Press</media:credit>
+      <description>Gardner collided with the Rays&#x2019; Rickie Weeks at first base on a ground ball that produced the go-ahead run. Gardner then left with a bruised jaw and a strained neck.</description>
+      <dc:creator>SETH BERKMAN</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 00:42:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Baseball</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Yankees</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Tampa Bay Rays</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gardner, Brett</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Montgomery, Jordan (1992- )</category>
+    </item>
+    <item>
+      <title>Capitals See Players Behind the Stars as Keys to Playoff Success</title>
+      <link>https://www.nytimes.com/2017/04/12/sports/hockey/nhl-playoffs-capitals-jay-beagle.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/sports/hockey/nhl-playoffs-capitals-jay-beagle.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/sports/hockey/nhl-playoffs-capitals-jay-beagle.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/sports/12Capitals/12Capitals-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Washington Capitals center Jay Beagle stealing the puck from the Calgary Flames&#x2019; Johnny Gaudreau in a game last month in Washington.</media:description>
+      <media:credit>Molly Riley/Associated Press</media:credit>
+      <description>Goals contributed by players like Jay Beagle, a fourth-line center, will make the difference. That&#x2019;s the hope, anyway.</description>
+      <dc:creator>TOM WORGO</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 21:23:09 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Washington Capitals</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Beagle, Jay (1985- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Playoff Games</category>
+    </item>
+    <item>
+      <title>Didier Drogba, Famous Soccer Player, Joins Phoenix Rising, Not a Famous Soccer Team</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/soccer/didier-drogba-phoenix-rising-mls.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/soccer/didier-drogba-phoenix-rising-mls.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/soccer/didier-drogba-phoenix-rising-mls.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/soccer/13drogba/13drogba-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Didier Drogba, right, spent 18 months with the Montreal Impact from 2015 to 2016, helping them to the M.L.S. postseason for the first time.</media:description>
+      <media:credit>Shaun Clark/Getty Images</media:credit>
+      <description>Drogba, one of the most decorated players of his generation, will try to help the franchise move up to M.L.S.</description>
+      <dc:creator>RORY SMITH</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 20:31:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Drogba, Didier</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Phoenix Rising</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Soccer League</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Major League Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+    </item>
+    <item>
+      <title>It&#x2019;s Permanent: Doug Weight to Stay On as Islanders Coach</title>
+      <link>http://www.nytimes.com/2017/04/12/sports/hockey/islanders-doug-weight-coach.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/sports/hockey/islanders-doug-weight-coach.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/sports/hockey/islanders-doug-weight-coach.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/sports/13ISLANDERS/13ISLANDERS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Islanders Coach Doug Weight yelled to his players during a game against the Sabres this month.</media:description>
+      <media:credit>Jeffrey T. Barnes/Associated Press</media:credit>
+      <description>Weight, who became the team&#x2019;s interim coach in January, was 24-12-4 and nearly led the team to the N.H.L. playoffs.</description>
+      <dc:creator>ALLAN KREDA</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 19:44:31 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">New York Islanders</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Weight, Doug</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Snow, Garth</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Hockey, Ice</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Coaches and Managers</category>
+    </item>
+    <item>
+      <title/>
+      <link>https://www.nytimes.com/index.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/index.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/index.html?partner=rss&amp;emc=rss"/>
+      <description/>
+      <dc:creator/>
+      <pubDate/>
+    </item>
+  </channel>
+</rss>

@@ -1,0 +1,522 @@
+<?xml version="1.0"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:nyt="http://www.nytimes.com/namespaces/rss/2.0" version="2.0">
+  <channel>
+    <title>NYT &gt; Business Day</title>
+    <link>http://www.nytimes.com/pages/business/index.html?partner=rss&amp;emc=rss</link>
+    <atom:link rel="self" type="application/rss+xml" href="http://www.nytimes.com/services/xml/rss/nyt/Business.xml"/>
+    <description/>
+    <language>en-us</language>
+    <copyright>Copyright 2017  The New York Times Company</copyright>
+    <lastBuildDate>Thu, 13 Apr 2017 17:47:26 GMT </lastBuildDate>
+    <image>
+      <title>NYT &gt; Business Day</title>
+      <url>https://static01.nyt.com/images/misc/NYT_logo_rss_250x40.png</url>
+      <link>http://www.nytimes.com/pages/business/index.html?partner=rss&amp;emc=rss</link>
+    </image>
+    <item>
+      <title>How to Write TV in the Age of Trump: Showrunners Reveal All</title>
+      <link>http://www.nytimes.com/2017/04/12/arts/television/political-tv-in-age-of-trump-shonda-rhimes-scandal-veep-madame-secretary-house-of-cards-hbo.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/arts/television/political-tv-in-age-of-trump-shonda-rhimes-scandal-veep-madame-secretary-house-of-cards-hbo.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/arts/television/political-tv-in-age-of-trump-shonda-rhimes-scandal-veep-madame-secretary-house-of-cards-hbo.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/11/arts/television/wiseman_web2/wiseman_web2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>Illustration by Ben Wiseman. Photos by Kevin Winter/Getty Images; Steve Sands/GC Images; Byron Cohen/ABC, via Getty Images; Sarah Shatz/CBS, via Getty Images.</media:credit>
+      <description>Shonda Rhimes of &#x201C;Scandal&#x201D; and the people behind &#x201C;Veep,&#x201D; &#x201C;Madam Secretary&#x201D; and &#x201C;House of Cards&#x201D; talk about reality bumping into fiction.</description>
+      <dc:creator>JIM RUTENBERG</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 00:59:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">House of Cards (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Madam Secretary (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Scandal (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Veep (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mandel, David H (1970- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Rhimes, Shonda</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hall, Barbara (1960- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pugliese, Frank</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Gibson, Melissa James</category>
+    </item>
+    <item>
+      <title>Wheels: Online Upstarts Seek to Disrupt Used-Car Buying</title>
+      <link>https://www.nytimes.com/2017/04/13/automobiles/wheels/online-used-car-sales.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/automobiles/wheels/online-used-car-sales.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/automobiles/wheels/online-used-car-sales.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/16/business/14WHEELS/14WHEELS-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Emily Hurwitz, 28, purchased a Volkswagen Tiguan through Shift, an online company that brought the car to her apartment for a test drive.</media:description>
+      <media:credit>Peter DaSilva for The New York Times</media:credit>
+      <description>Companies like Shift appeal to millennials in particular, but experts say the traditional dealership isn&#x2019;t about to disappear.</description>
+      <dc:creator>MARY M. CHAPMAN</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 16:29:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">E-Commerce</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Used Cars</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Beepi Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">San Francisco (Calif)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Shift</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hurwitz, Emily</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Arison, George</category>
+    </item>
+    <item>
+      <title>United Passenger Will Need Reconstructive Surgery, Lawyer Says</title>
+      <link>https://www.nytimes.com/2017/04/13/us/united-passenger-david-dao-chicago.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/us/united-passenger-david-dao-chicago.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/us/united-passenger-david-dao-chicago.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/14/us/dao-two/dao-two-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Thomas A. Demetrio, a lawyer for Dr. David Dao, blamed a culture of disrespect at United Airlines and overly aggressive tactics from Chicago aviation police for the injuries to his client.</media:description>
+      <media:credit>Kamil Krzaczynski/Reuters</media:credit>
+      <description>Dr. David Dao, the passenger dragged off a United flight, suffered a broken nose, sustained a concussion, lost two teeth and injured his sinuses, his lawyer said.</description>
+      <dc:creator>MITCH SMITH</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 17:36:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Aviation Accidents, Safety and Disasters</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Dao, David A (1948- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Chicago (Ill)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Thomas A. Demetrio</category>
+    </item>
+    <item>
+      <title>Why &#x2018;Sorry&#x2019; Is Still the Hardest Word</title>
+      <link>http://www.nytimes.com/2017/04/12/business/media/apology-sean-spicer-holocaust-oscar-munoz-united.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/business/media/apology-sean-spicer-holocaust-oscar-munoz-united.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/business/media/apology-sean-spicer-holocaust-oscar-munoz-united.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13APOLOGY1/13APOLOGY1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Sean Spicer, the White House press secretary, said of his comments favorably comparing Hitler to President Bashar al-Assad of Syria: &#x201C;I made a mistake; there&#x2019;s no other way to say it. I got into a topic that I shouldn&#x2019;t have, and I screwed up.&#x201D;</media:description>
+      <media:credit>T.J. Kirkpatrick for The New York Times</media:credit>
+      <description>The representatives of United Airlines and the White House both found themselves grappling with the increasingly common ritual: the public apology.</description>
+      <dc:creator>MICHAEL M. GRYNBAUM</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 01:10:18 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Munoz, Oscar (1959- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Apologies</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Spicer, Sean M (1971- )</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Holocaust and the Nazi Era</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Syria</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Biological and Chemical Warfare</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Assad, Bashar al-</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Hitler, Adolf</category>
+    </item>
+    <item>
+      <title>Movers: JPMorgan&#x2019;s Results May Signal Good News While Wells Fargo Is Flat</title>
+      <link>http://www.nytimes.com/2017/04/13/business/dealbook/markets-bank-earnings-stocks-jpmorgan-wells.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/13/business/dealbook/markets-bank-earnings-stocks-jpmorgan-wells.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/13/business/dealbook/markets-bank-earnings-stocks-jpmorgan-wells.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/14/business/14db-movers1/14db-movers1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Jamie Dimon, chief executive of JPMorgan Chase, speaking before the U.S. Chamber of Commerce this month. On Thursday, the bank reported strong quarterly results.</media:description>
+      <media:credit>Paul Morigi/Associated Press</media:credit>
+      <description>We&#x2019;re following major developments in the markets throughout the day.</description>
+      <dc:creator>THE NEW YORK TIMES</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 13:19:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">International Trade and World Market</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">US Dollar (Currency)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Consumer Confidence (Economic Indicator)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">JPMorgan Chase &amp; Company</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Citigroup Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Wells Fargo &amp; Company</category>
+    </item>
+    <item>
+      <title>Wall Street Dips as Investors Parse Bank Earnings</title>
+      <link>https://www.nytimes.com/reuters/2017/04/13/business/13reuters-usa-stocks.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/reuters/2017/04/13/business/13reuters-usa-stocks.html</guid>
+      <description>Wall Street edged lower on Thursday and looked set to book losses for the third straight day as investors weighed earnings from big U.S. banks and President Donald Trump's comments on the strength of the dollar.</description>
+      <dc:creator>REUTERS</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 17:21:27 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Citigroup Inc|C|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">JPMorgan Chase &amp; Company|JPM|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Thomson Reuters Corporation|TRI|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Goldman Sachs Group Inc|GS|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Bank of America Corporation|BAC|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Berkshire Hathaway Inc|BRK.A|NYSE</category>
+      <category domain="http://www.nytimes.com/namespaces/nyt_org_all">Wells Fargo &amp; Company|WFC|NYSE</category>
+    </item>
+    <item>
+      <title>New Tools Needed to Track Technology&#x2019;s Impact on Jobs, Panel Says</title>
+      <link>https://www.nytimes.com/2017/04/13/technology/artificial-intelligence-automation-report.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/technology/artificial-intelligence-automation-report.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/technology/artificial-intelligence-automation-report.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/14/business/14work2/14work2-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Automation fears have stirred many fanciful visions of the future. An expert panel calls for new tools of analysis to help workers adapt.</media:description>
+      <media:credit>Kristian Hammerstad</media:credit>
+      <description>The nation is &#x201C;flying blind&#x201D; into a new era of automation and artificial intelligence, the authors of a National Academies study warned.</description>
+      <dc:creator>STEVE LOHR</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 17:38:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Artificial Intelligence</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Data-Mining and Database Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Brynjolfsson, Erik</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Mitchell, Tom</category>
+    </item>
+    <item>
+      <title>BRITAIN&#x2019;S UNEASY LABOR FORCE: Britain&#x2019;s Uneasy Labor Market</title>
+      <link>https://www.nytimes.com/2017/04/13/business/britain-labor-market-brexit.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/business/britain-labor-market-brexit.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/business/britain-labor-market-brexit.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/uklabor-img1/uklabor-img1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The scene near the Houses of Parliament in central London after the referendum vote in June.</media:description>
+      <media:credit>Justin Tallis/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>Britain&#x2019;s economy is thriving, and unemployment is at its lowest level since 1975. But new data exposes potential trouble spots.</description>
+      <dc:creator>AMIE TSANG</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 17:43:05 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Labor and Jobs</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Great Britain Withdrawal from EU (Brexit)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Great Britain</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Unemployment</category>
+    </item>
+    <item>
+      <title>Trump Reversals Hint at Wall Street Wing&#x2019;s Sway in White House</title>
+      <link>http://www.nytimes.com/2017/04/12/us/politics/export-import-bank-janet-yellen-china-currency.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/us/politics/export-import-bank-janet-yellen-china-currency.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/us/politics/export-import-bank-janet-yellen-china-currency.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/us/13trumpecon/13trumpecon-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>President Trump said he no longer wanted to label China a currency manipulator.</media:description>
+      <media:credit>Associated Press</media:credit>
+      <description>Startling shifts on China and the Export-Import Bank and the possible reappointment of the chairwoman of the Federal Reserve show financiers may be gaining the upper hand over the populists.</description>
+      <dc:creator>ALAN RAPPEPORT</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 01:02:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Economy</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Banking and Financial Institutions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>The Murdochs Assess the O&#x2019;Reilly Damage</title>
+      <link>https://www.nytimes.com/2017/04/12/business/media/fox-murdochs-bill-oreilly-sex-harassment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/business/media/fox-murdochs-bill-oreilly-sex-harassment.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/business/media/fox-murdochs-bill-oreilly-sex-harassment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13OREILLY1-print/13OREILLY1-print-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Demonstrators in Manhattan on Wednesday called for Fox News to dismiss Bill O&#x2019;Reilly.</media:description>
+      <media:credit>Christopher  Lee for The New York Times</media:credit>
+      <description>Bill O&#x2019;Reilly has left Fox News for a vacation while his employers decide whether they should force him from the network over sexual harassment accusations.</description>
+      <dc:creator>EMILY STEEL and MICHAEL S. SCHMIDT</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 01:23:17 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fox News Channel</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">O'Reilly, Bill</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sexual Harassment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">21st Century Fox</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Murdoch, Rupert</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Paul Weiss Rifkind Wharton &amp; Garrison</category>
+    </item>
+    <item>
+      <title>Reality Show Workers Stage a Walkout to Push Contract Talks Forward</title>
+      <link>http://www.nytimes.com/2017/04/12/business/media/reality-show-workers-stage-a-walkout-to-push-contract-talks-forward.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/business/media/reality-show-workers-stage-a-walkout-to-push-contract-talks-forward.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/business/media/reality-show-workers-stage-a-walkout-to-push-contract-talks-forward.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13union1/13union1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>The Writers Guild of America, the union that represents Hollywood writers, is battling entertainment companies on multiple fronts.<br/><br/></media:description>
+      <media:credit>Reuters</media:credit>
+      <description>At least 100 workers walked out of roughly a dozen reality show companies in an effort to assert the strength of the Writers Guild of America.</description>
+      <dc:creator>BROOKS BARNES</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 19:03:08 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Strikes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Writing and Writers</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Reality Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Writers Guild of America</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Los Angeles (Calif)</category>
+    </item>
+    <item>
+      <title>Bigger, Faster, More Lavish: Americans Crave S.U.V.s, and Carmakers Oblige</title>
+      <link>https://www.nytimes.com/2017/04/12/business/suv-automakers-fuel-economy-new-york.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/business/suv-automakers-fuel-economy-new-york.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/business/suv-automakers-fuel-economy-new-york.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13auto-lincoln/13auto-lincoln-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Ford&#x2019;s latest Lincoln Navigator is larger and more powerful than its predecessor, while aiming squarely at car owners seeking luxury features.</media:description>
+      <media:credit>Hilary Swift for The New York Times</media:credit>
+      <description>At the New York International Auto Show, powerful sport-utility vehicles are at center stage, a sign of the continuing shift away from traditional passenger cars.</description>
+      <dc:creator>BILL VLASIC</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 00:50:53 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Automobiles</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Sports Utility Vehicles and Light Trucks</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">New York International Auto Show</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Fiat Chrysler Automobiles NV</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Ford Motor Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">General Motors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Lincoln Motor Co</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Mercedes-Benz</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Fuel Efficiency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Consumer Behavior</category>
+    </item>
+    <item>
+      <title>Uber Sees an Executive Exodus as It Faces Questions of Workplace Culture</title>
+      <link>http://www.nytimes.com/2017/04/12/technology/uber-executives-leaving-company.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/technology/uber-executives-leaving-company.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/technology/uber-executives-leaving-company.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/technology/oakImage-1492007407924/oakImage-1492007407924-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Outside Uber&#x2019;s headquarters in San Francisco.</media:description>
+      <media:credit>Eric Risberg/Associated Press</media:credit>
+      <description>In the last three months, several high-ranking managers have left the ride-hailing company. At least one has been openly critical about the way the company has been run.</description>
+      <dc:creator>MIKE ISAAC</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:18:01 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Uber Technologies Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Appointments and Executive Changes</category>
+    </item>
+    <item>
+      <title>Burger King &#x2018;O.K. Google&#x2019; Ad Doesn&#x2019;t Seem O.K. With Google</title>
+      <link>https://www.nytimes.com/2017/04/12/business/burger-king-tv-ad-google-home.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/business/burger-king-tv-ad-google-home.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/business/burger-king-tv-ad-google-home.html?partner=rss&amp;emc=rss"/>
+      <description>The commercial was a novel but potentially invasive marketing tactic that came as more Americans use voice-activated devices.</description>
+      <dc:creator>SAPNA MAHESHWARI</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 00:06:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Advertising and Marketing</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Google Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Burger King Corp</category>
+    </item>
+    <item>
+      <title>Venezuela Staves Off Default, but Low Oil Prices Pose a Threat</title>
+      <link>https://www.nytimes.com/2017/04/12/business/venezuela-oil-debt-payment.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/business/venezuela-oil-debt-payment.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/business/venezuela-oil-debt-payment.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13venezuela1/13venezuela1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>A demonstration this month in Caracas against the government of President Nicol&#xE1;s Maduro. With its oil production and international reserves falling, the government is struggling to pay for imported medicine and food.</media:description>
+      <media:credit>Juan Barreto/Agence France-Presse &#x2014; Getty Images</media:credit>
+      <description>With dwindling reserves and political turmoil, the government is juggling assets and leaning on its American subsidiary, Citgo, to meet payment needs.</description>
+      <dc:creator>CLIFFORD KRAUSS</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 14:42:04 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Oil (Petroleum) and Gasoline</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">PDVSA</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Maduro, Nicolas</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Venezuela</category>
+    </item>
+    <item>
+      <title>Scott Pruitt Faces Anger From Right Over E.P.A. Finding He Won&#x2019;t Fight</title>
+      <link>http://www.nytimes.com/2017/04/12/climate/scott-pruitt-epa-endangerment-finding.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/climate/scott-pruitt-epa-endangerment-finding.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/climate/scott-pruitt-epa-endangerment-finding.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/us/13PRUITT1/13PRUITT1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Traffic in New York City. Conservative groups want Scott Pruitt, the head of the Environmental Protection Agency, to overturn a ruling known as the endangerment finding, which provides the legal foundation for the Obama administration&#x2019;s climate-change policies.</media:description>
+      <media:credit>Hiroko Masuike/The New York Times</media:credit>
+      <description>Critics charge the agency&#x2019;s administrator should have challenged a legal finding that underpinned the Obama climate policies, but he refuses to budge.</description>
+      <dc:creator>CORAL DAVENPORT</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:48:55 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Global Warming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Greenhouse Gas Emissions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Environment</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Carbon Dioxide</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Pruitt, Scott</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Environmental Protection Agency</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+    </item>
+    <item>
+      <title>Journalists at Gothamist and DNAinfo Agree to Join Labor Union</title>
+      <link>http://www.nytimes.com/2017/04/12/nyregion/journalists-at-gothamist-and-dnainfo-vote-to-join-labor-union.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/nyregion/journalists-at-gothamist-and-dnainfo-vote-to-join-labor-union.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/nyregion/journalists-at-gothamist-and-dnainfo-vote-to-join-labor-union.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/nyregion/13GUILD/13GUILD-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Joe Ricketts, the owner of DNAinfo and Gothamist, in 2014.</media:description>
+      <media:credit>Nati Harnik/Associated Press</media:credit>
+      <description>The news sites merged recently, and DNAinfo has laid off about a quarter of its editorial staff in recent weeks.</description>
+      <dc:creator>ELI ROSENBERG</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 16:13:58 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Organized Labor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">News and News Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">DNAinfo</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Gothamist LLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Ricketts, J Joe</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Layoffs and Job Reductions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">New York City</category>
+    </item>
+    <item>
+      <title>KPMG Fires 6 Over Ethics Breach on Audit Warnings</title>
+      <link>http://www.nytimes.com/2017/04/12/business/dealbook/kpmg-public-company-accounting-oversight-board.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/business/dealbook/kpmg-public-company-accounting-oversight-board.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/business/dealbook/kpmg-public-company-accounting-oversight-board.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13db-kpmg1/13db-kpmg1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>KPMG said that an individual who had joined the firm from the Public Company Accounting Oversight Board had received confidential information from an employee of the oversight board and shared it with others at KPMG.</media:description>
+      <media:credit>Sam Mircovich/Reuters</media:credit>
+      <description>The accounting firm said the employees had been terminated after it learned they were receiving improper warnings of planned audit inspections.</description>
+      <dc:creator>CHAD BRAY</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 14:12:03 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Accounting and Accountants</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">KPMG</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Public Company Accounting Oversight Board</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Doughtie, Lynne M</category>
+    </item>
+    <item>
+      <title>Want to Resist Trump or Make America Great Again? These People Switched Careers</title>
+      <link>http://www.nytimes.com/2017/04/13/business/want-to-resist-trump-or-make-america-great-again-these-people-switched-careers.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/13/business/want-to-resist-trump-or-make-america-great-again-these-people-switched-careers.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/13/business/want-to-resist-trump-or-make-america-great-again-these-people-switched-careers.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/business/oakImage-1492033510723/oakImage-1492033510723-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description/>
+      <media:credit>From left: Jim Wilson/The New York Times; Dustin Chambers for The New York Times; Hiroko Masuike/The New York Times</media:credit>
+      <description>The election of Donald J. Trump has provoked elation, outrage and self-reflection. It has even prompted career changes.</description>
+      <dc:creator>DAVID GELLES</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 09:01:20 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Careers and Professions</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Labor and Jobs</category>
+    </item>
+    <item>
+      <title>A Healthy Nudge: How Behavioral Economics Can Produce Better Health Care</title>
+      <link>http://www.nytimes.com/2017/04/13/upshot/answer-to-better-health-care-behavioral-economics.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/13/upshot/answer-to-better-health-care-behavioral-economics.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/13/upshot/answer-to-better-health-care-behavioral-economics.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/08/upshot/10up-nudge1/10up-nudge1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Handwashing is important for doctors, and sometimes they need nudges to do it.</media:description>
+      <media:credit>Jeff Swensen for The New York Times</media:credit>
+      <description>People don&#x2019;t always act &#x201C;rationally.&#x201D; Nudges might be able to lead to better doctors and healthier patients.</description>
+      <dc:creator>DHRUV KHULLAR</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 09:30:23 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Doctors</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Economics (Theory and Philosophy)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Emotions</category>
+    </item>
+    <item>
+      <title>After Campaign Exit, Manafort Borrowed From Businesses With Trump Ties</title>
+      <link>http://www.nytimes.com/2017/04/12/us/politics/paul-manafort-donald-trump.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/us/politics/paul-manafort-donald-trump.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/us/politics/paul-manafort-donald-trump.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/us/13MANAFORT-01p/13MANAFORT-01p-moth-v2.jpg" medium="image" height="151" width="151"/>
+      <media:description>Paul Manafort&#x2019;s transactions raise a number of questions, including whether his decision to turn to lenders connected to Donald J. Trump was related to his role in the campaign.</media:description>
+      <media:credit>Damon Winter/The New York Times</media:credit>
+      <description>A shell company created by Paul Manafort the same day he left the presidential campaign quickly received $13 million in loans from the businesses.</description>
+      <dc:creator>MIKE McINTIRE</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 22:36:40 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Manafort, Paul J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Presidential Election of 2016</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Lobbying and Lobbyists</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Ukraine</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_geo">Russia</category>
+    </item>
+    <item>
+      <title>A Chat With a Live Streamer Is Yours, for a Price</title>
+      <link>http://www.nytimes.com/2017/04/12/technology/personaltech/paying-for-live-stream-chat.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/technology/personaltech/paying-for-live-stream-chat.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/technology/personaltech/paying-for-live-stream-chat.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13vidgame1/13vidgame1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Andre Rebelo, live-streams his Grand Theft Auto 5 Mods game at home in Vancouver.</media:description>
+      <media:credit>Rafal Gerszak for The New York Times</media:credit>
+      <description>Dedicated video streaming platforms like YouTube and Twitch are looking for ways to sweeten the deal for streamers so they produce more live content.</description>
+      <dc:creator>LAURA PARKER</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:41:59 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computer and Video Games</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Twitch Interactive Inc</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">YouTube.com</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Prices (Fares, Fees and Rates)</category>
+    </item>
+    <item>
+      <title>State of the Art: How Technology Has Failed to Improve Your Airline Experience</title>
+      <link>https://www.nytimes.com/2017/04/12/technology/how-technology-has-failed-to-improve-your-airline-experience.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/technology/how-technology-has-failed-to-improve-your-airline-experience.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/technology/how-technology-has-failed-to-improve-your-airline-experience.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/us/12state-united/12state-united-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>United Airlines planes at San Francisco International Airport. Oscar Munoz, United&#x2019;s chief executive, offered an apology and pledged to review the airline&#x2019;s policies two days after a passenger was violently ejected from an overbooked flight.</media:description>
+      <media:credit>Louis Nastro/Reuters</media:credit>
+      <description>Silicon Valley prides itself on its capacity to upend entrenched industries. But airlines have eluded tech disruption.</description>
+      <dc:creator>FARHAD MANJOO</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 09:00:30 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Airlines and Airplanes</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">United Airlines</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Customer Relations</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Customer Loyalty Programs</category>
+    </item>
+    <item>
+      <title>Tech We're Using: The Apps That Make Keeping Up With Soccer Easier</title>
+      <link>https://www.nytimes.com/2017/04/12/technology/personaltech/the-apps-that-make-keeping-up-with-soccer-easier.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/technology/personaltech/the-apps-that-make-keeping-up-with-soccer-easier.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/technology/personaltech/the-apps-that-make-keeping-up-with-soccer-easier.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/business/13TECHUSING1/13TECHUSING1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Rory Smith using his Apple iPad outside Stamford Bridge, home of Chelsea FC, in London.</media:description>
+      <media:credit>Tom Jamieson for The New York Times</media:credit>
+      <description>The video-streaming apps Virgin Anywhere and Sky Sports Mobile TV are a boon for a soccer reporter, or a fan.</description>
+      <dc:creator>RORY SMITH</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:02:45 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Soccer</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mobile Applications</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Video Recordings, Downloads and Streaming</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Social Media</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sky PLC</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Virgin Media Inc</category>
+    </item>
+    <item>
+      <title>Trilobites: A Lizard With Scales That Behave Like a Computer Simulation</title>
+      <link>https://www.nytimes.com/2017/04/12/science/ocellated-lizards-scales-cellular-automata.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/12/science/ocellated-lizards-scales-cellular-automata.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/12/science/ocellated-lizards-scales-cellular-automata.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/13/science/13tb-lizard01/13tb-lizard01-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>An ocellated lizard. Their scales change from brown and white to black and green as they get older, and scientists say they appear to follow a pattern that is similar to a computer simulation.</media:description>
+      <media:credit>Michel Milinkovitch</media:credit>
+      <description>Two mathematical models converge to illuminate the process through which an ocellated lizard&#x2019;s scales repeatedly change color.</description>
+      <dc:creator>STEPH YIN</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:00:13 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Lizards</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Computers and the Internet</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Mathematics</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Nature (Journal)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Milinkovitch, Michel C</category>
+    </item>
+    <item>
+      <title>Your Money Adviser: Medical Debt: You May Not Owe It</title>
+      <link>http://www.nytimes.com/2017/04/12/your-money/12money-adviser-medical-debt-collections.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/12/your-money/12money-adviser-medical-debt-collections.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/12/your-money/12money-adviser-medical-debt-collections.html?partner=rss&amp;emc=rss"/>
+      <description>Researchers find that about 60 percent of complaints about medical debt collections fall into categories that suggest the consumers may not owe the money.</description>
+      <dc:creator>ANN CARRNS</dc:creator>
+      <pubDate>Wed, 12 Apr 2017 17:58:41 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Personal Finances</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Credit and Debt</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Credit Scores</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Health Insurance and Managed Care</category>
+    </item>
+    <item>
+      <title>Feature: Mike Judge, the Bard of Suck</title>
+      <link>http://www.nytimes.com/2017/04/13/magazine/mike-judge-the-bard-of-suck.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/13/magazine/mike-judge-the-bard-of-suck.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/13/magazine/mike-judge-the-bard-of-suck.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/16/magazine/16judge1/16judge1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Mike Judge.</media:description>
+      <media:credit>Chris Buck for The New York Times</media:credit>
+      <description>From &#x201C;Idiocracy&#x201D; to &#x201C;Silicon Valley,&#x201D; the writer and director has established himself as America&#x2019;s foremost chronicler of its own self-destructive tendencies.</description>
+      <dc:creator>WILLY STALEY</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 09:00:02 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Silicon Valley (TV Program)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_ttl">Idiocracy (Movie)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Home Box Office</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Judge, Mike</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Television</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Comedy and Humor</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Start-ups</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Sony Pictures Entertainment</category>
+    </item>
+    <item>
+      <title>Trump&#x2019;s Trademark Continues Its March Across the Globe, Raising Eyebrows</title>
+      <link>http://www.nytimes.com/2017/04/11/us/politics/trump-trademark-ethics.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">http://www.nytimes.com/2017/04/11/us/politics/trump-trademark-ethics.html</guid>
+      <atom:link rel="standout" href="http://www.nytimes.com/2017/04/11/us/politics/trump-trademark-ethics.html?partner=rss&amp;emc=rss"/>
+      <media:content url="https://static01.nyt.com/images/2017/04/12/us/12Trademark1/12Trademark1-moth.jpg" medium="image" height="151" width="151"/>
+      <media:description>Trump home goods have sold briskly in Lima, Peru. Officials say his trademark applications have gotten no special treatment.</media:description>
+      <media:credit>Santiago Barco Luna for The New York Times</media:credit>
+      <description>Whether 157 pending applications in 36 countries risk violating the Constitution is an open question, as no president has tested the limits like Donald J. Trump.</description>
+      <dc:creator>SHARON LaFRANIERE and DANNY HAKIM</dc:creator>
+      <pubDate>Tue, 11 Apr 2017 23:50:52 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">United States Politics and Government</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Trademarks and Trade Names</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_per">Trump, Donald J</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">Gifts to Public Officials</category>
+    </item>
+    <item>
+      <title>Tech Tip: Send Some Sass With That Text Message</title>
+      <link>https://www.nytimes.com/2017/04/13/technology/personaltech/send-some-sass-with-that-text-message.html?partner=rss&amp;emc=rss</link>
+      <guid isPermaLink="true">https://www.nytimes.com/2017/04/13/technology/personaltech/send-some-sass-with-that-text-message.html</guid>
+      <atom:link rel="standout" href="https://www.nytimes.com/2017/04/13/technology/personaltech/send-some-sass-with-that-text-message.html?partner=rss&amp;emc=rss"/>
+      <description>Apple&#x2019;s own texting app for iOS 10 includes easy ways to liven up your interactions with other iMessage users.</description>
+      <dc:creator>J. D. BIERSDORFER</dc:creator>
+      <pubDate>Thu, 13 Apr 2017 16:11:28 GMT</pubDate>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">iOS (Operating System)</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/des">Text Messaging</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/mdes">iPhone</category>
+      <category domain="http://www.nytimes.com/namespaces/keywords/nyt_org_all">Apple Inc</category>
+    </item>
+  </channel>
+</rss>
