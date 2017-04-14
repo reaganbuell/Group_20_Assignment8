@@ -3,6 +3,7 @@ class RSS{
   PFont font;
   PFont italics;
   PFont bold;
+  boolean mReleased;
   int y = 100;
   StringDict articles;
   StringDict links;
@@ -16,6 +17,20 @@ class RSS{
   RSS(XML _rss, color _c){
     this.rss = _rss;  
     this.c = _c;
+    articles = new StringDict();
+    links = new StringDict();
+  }
+  
+  void click(){
+    for(int x = 0; x < nums.length; x++){
+      nums[x] = 100+40*x;
+    }
+    
+    for(int z = 0; z < nums.length; z++){
+      if(mouseY <= nums[z] + 10 && mouseY >= nums[z] - 20){
+        link(links.get(titleLoc.get(nums[z])));
+      }
+    }
   }
   
   void display(){
@@ -38,9 +53,9 @@ class RSS{
       text(buildDate, 10, 40);
       first = false;
     }
-      
+
         
-    //previous and next scroll buttons
+    //draw previous and next scroll buttons
     fill(200);
     rect(580, 5, 100, 50, 7);
     rect(690, 5, 100, 50, 7);
@@ -49,12 +64,10 @@ class RSS{
     text("<<",620, 35);
     text(">>", 730, 35);
     
-    //list of all the titles and descriptions in the feed
+    //get all of the children
     XML[] titleList = channel.getChildren("item/title");
     XML[] descriptionList = channel.getChildren("item/description");
     XML[] linkList = channel.getChildren("item/link");
-    articles = new StringDict();
-    links = new StringDict();
     
     for( int i = 0; i < titleList.length; i++){
       String title = titleList[i].getContent();
@@ -78,16 +91,16 @@ class RSS{
     //rect for text preview
     fill(210);
     rect(0, 475, 899, 124);
+    
     for(int z = 0; z < nums.length; z++){
       if(mouseY <= nums[z] + 10 && mouseY >= nums[z] - 20){
         fill(0);
         textFont(italics);
         text(articles.get(titleLoc.get(nums[z])), 10, 500);
-        
-        if(mousePressed){
-          link(links.get(titleLoc.get(nums[z])));
-        }
       }
     }
+    
+    
   }
+  
 }

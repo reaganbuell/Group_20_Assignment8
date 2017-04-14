@@ -31,12 +31,17 @@ void setup(){
 }
 
 void draw(){
-
+  
   //display RSS Feeds
   nyWorld.display();
   //nyUS.display();
   //nyBus.display();
   //nyTech.display();
   //nySports.display();
+  
+}
+
+void mouseReleased(){
+  nyWorld.click();
   
 }
