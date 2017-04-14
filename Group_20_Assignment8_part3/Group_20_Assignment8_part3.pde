@@ -39,6 +39,5 @@ void draw(){
   //nyBus.display();
   //nyTech.display();
   //nySports.display();
-  noLoop();
   
 }
