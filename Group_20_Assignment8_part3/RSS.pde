@@ -15,10 +15,8 @@ class RSS{
   RSS(XML _rss, color _c){
     this.rss = _rss;  
     this.c = _c;
-    
   }
   
- 
   void display(){
     font = createFont("CourierNew.ttf", 15);
     italics = createFont("CourierNewItalic.ttf", 15);
@@ -55,11 +53,6 @@ class RSS{
     XML[] descriptionList = channel.getChildren("item/description");
     articles = new StringDict();
     
-    for(int x = 0; x < nums.length; x++){
-      nums[x] = 100+40*x;
-    }
-    
-    
     for( int i = 0; i < titleList.length; i++){
       String title = titleList[i].getContent();
       String description = descriptionList[i].getContent();
@@ -72,6 +65,11 @@ class RSS{
       
       y += 40;
     }
+    
+    for(int x = 0; x < nums.length; x++){
+      nums[x] = 100+40*x;
+    }
+    
     //rect for text preview
     fill(210);
     rect(0, 475, 899, 124);
@@ -83,5 +81,4 @@ class RSS{
       }
     }
   }
-
 }
