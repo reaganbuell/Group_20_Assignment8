@@ -1,9 +1,10 @@
+import java.util.Map;
 
 XML nyWorldXML, nyUSXML, nyBusXML, nyTechXML, nySportsXML;
 RSS nyWorld, nyUS, nyBus, nyTech, nySports;
 
 void setup(){
-  size(800,600);
+  size(900,600);
   background(150);
   
   //load in RSS feeds
@@ -21,18 +22,16 @@ void setup(){
   //nySportsXML = loadXML("Sports.xml");
 
   
-  nyWorld = new RSS(nyWorldXML);
-  nyUS = new RSS(nyUSXML);
-  nyBus = new RSS(nyBusXML);
-  nyTech = new RSS(nyTechXML);
-  nySports = new RSS(nySportsXML);
+  nyWorld = new RSS(nyWorldXML, color(255, 0, 0));
+  nyUS = new RSS(nyUSXML, color(0, 0, 255));
+  nyBus = new RSS(nyBusXML, color(0, 255, 0));
+  nyTech = new RSS(nyTechXML, color(255, 255, 0));
+  nySports = new RSS(nySportsXML, color(255, 0, 255));
   
 }
 
 void draw(){
-  
-  
-  
+
   //display RSS Feeds
   nyWorld.display();
   //nyUS.display();
