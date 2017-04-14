@@ -60,7 +60,7 @@ class RSS{
     }
     
     
-    for( int i = 0; i < 2; i++){
+    for( int i = 0; i < titleList.length; i++){
       String title = titleList[i].getContent();
       String description = descriptionList[i].getContent();
       articles.set(title, description);
