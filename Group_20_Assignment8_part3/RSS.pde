@@ -5,6 +5,7 @@ class RSS{
   PFont bold;
   int y = 100;
   StringDict articles;
+  StringDict links;
   HashMap<Integer,String> titleLoc = new HashMap<Integer,String>();
   int[] nums = new int[10];
   boolean first = true;
@@ -51,12 +52,16 @@ class RSS{
     //list of all the titles and descriptions in the feed
     XML[] titleList = channel.getChildren("item/title");
     XML[] descriptionList = channel.getChildren("item/description");
+    XML[] linkList = channel.getChildren("item/link");
     articles = new StringDict();
+    links = new StringDict();
     
     for( int i = 0; i < titleList.length; i++){
       String title = titleList[i].getContent();
       String description = descriptionList[i].getContent();
+      String link = linkList[i].getContent();
       articles.set(title, description);
+      links.set(title, link);
       titleLoc.put(y, title);
       
       fill(c);
@@ -78,6 +83,10 @@ class RSS{
         fill(0);
         textFont(italics);
         text(articles.get(titleLoc.get(nums[z])), 10, 500);
+        
+        if(mousePressed){
+          link(links.get(titleLoc.get(nums[z])));
+        }
       }
     }
   }
