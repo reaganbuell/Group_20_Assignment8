@@ -3,6 +3,8 @@ import java.util.Map;
 XML nyWorldXML, nyUSXML, nyBusXML, nyTechXML, nySportsXML;
 RSS nyWorld, nyUS, nyBus, nyTech, nySports;
 
+Button prev, next;
+
 void setup(){
   size(900,600);
   background(150);
@@ -28,9 +30,15 @@ void setup(){
   nyTech = new RSS(nyTechXML, color(255, 255, 0));
   nySports = new RSS(nySportsXML, color(255, 0, 255));
   
+  prev = new Button();
+  next = new Button();
+  
 }
 
 void draw(){
+  //display buttons
+  prev.display();
+  next.display();
   
   //display RSS Feeds
   nyWorld.display();
@@ -43,5 +51,9 @@ void draw(){
 
 void mouseReleased(){
   nyWorld.click();
+  //nyUS.click();
+  //nyBus.click();
+  //nyTech.click();
+  //nySports.click();
   
 }
