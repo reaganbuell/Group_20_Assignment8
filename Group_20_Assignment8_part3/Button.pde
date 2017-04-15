@@ -6,6 +6,14 @@ class Button{
     
   }
   
+  void prev(){
+    
+  }
+  
+  void next(){
+    
+  }
+  
   void display(){
     //font init
     bold = createFont("CourierNewBold.ttf", 15);

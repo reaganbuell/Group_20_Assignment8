@@ -42,7 +42,7 @@ class RSS{
       }
     }
     if(((mouseX >= 790) && (mouseX <= 890)) && ((mouseY >= 5) && (mouseY <= 55))){
-      if(currentPage < 3){
+      if(currentPage < pages){
         currentPage++;
       }
     }
@@ -83,7 +83,6 @@ class RSS{
     if(titleList.length % 10 != 0){
       pages++;
     }
-    
     
     //display currentPage/pages
     fill(150);
@@ -135,7 +134,7 @@ class RSS{
       if(mouseY <= nums[z] + 10 && mouseY >= nums[z] - 20){
         fill(0);
         textFont(italics);
-        text(articles.get(titleLoc.get(nums[z])), 10, 500);
+        text(articles.get(titleLoc.get(nums[z])), 10, 480, 900, 590);
       }
     }
   }
