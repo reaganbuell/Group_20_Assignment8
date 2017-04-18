@@ -9,6 +9,7 @@ RadioButton r;
 XML nyWorldXML, nyUSXML, nyBusXML, nyTechXML, nySportsXML;
 RSS nyWorld, nyUS, nyBus, nyTech, nySports;
 Button prev, next;
+CColor red;
 
 void setup(){
   size(900,600);
@@ -18,7 +19,7 @@ void setup(){
   controlP5 = new ControlP5(this);
   r = controlP5.addRadioButton("radio", 10, 135);
   r.setSpacingRow(50);
-  r.setColorLabel(255);
+  r.setColorLabel(color(0));
   r.addItem("World", 1);
   r.addItem("US", 2);
   r.addItem("Business", 3);
