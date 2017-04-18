@@ -1,0 +1,3 @@
+In order to run Data Visualization part 1, simply open the .pde file in the corresponding folder and click the play button in the top left corner of the processing window. To exit, either click the stop button next to the play button or close the canvas. 
+
+In order to run Data Visualization part 3, open Group_20_Assignment8_part3.pde file in the corresponding folder. You will then need to download the controlP5 library to run the program. Go to Sketch -> Import Library -> Add Library and search for controlP5. Once that is installed click on the play button. To exit, either click the stop button next to the play button or close the canvas.

@@ -1,7 +1,8 @@
 class Button{
   PFont bold;
   
-  void display(){
+  //draws next and previous buttons
+  void buttonDraw(){
     //font init
     bold = createFont("CourierNewBold.ttf", 15);
     
@@ -13,8 +14,10 @@ class Button{
     textFont(bold);
     text("<<",720, 35);
     text(">>", 830, 35);
-    
   }
   
-  
+  //displays buttons
+  void display(){
+    buttonDraw();
+  }
 }

@@ -1,0 +1,3 @@
+Part1 of the data visualization animates a bar graph depicting the relative popularity of 4 brands of yogurt. A CSV with frequency was downloaded and read into processing in order to provide some representation of people's preference. The x and y axes are labeled and the bars grow during the visualization. 
+
+Part 3 of the Data Visualization Assignment loads in 5 live RSS feeds from the NYTimes that can be scrolled through, previewed, and clicked on. 

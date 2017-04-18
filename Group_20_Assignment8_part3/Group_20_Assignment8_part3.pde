@@ -1,13 +1,13 @@
+//Coded by Reagan Buell
+
 import java.util.Map;
+//library for radio button use MUST DOWNLOAD TO RUN
 import controlP5.*;
 
 ControlP5 controlP5;
-
 RadioButton r;
-
 XML nyWorldXML, nyUSXML, nyBusXML, nyTechXML, nySportsXML;
 RSS nyWorld, nyUS, nyBus, nyTech, nySports;
-
 Button prev, next;
 
 void setup(){
@@ -33,9 +33,11 @@ void setup(){
   nyTechXML = loadXML("http://rss.nytimes.com/services/xml/rss/nyt/Technology.xml");
   nySportsXML = loadXML("http://rss.nytimes.com/services/xml/rss/nyt/Sports.xml");
   
+  //create previous and next buttons
   prev = new Button();
   next = new Button();
   
+  //pass through the XML's and colors for displaying
   nyWorld = new RSS(nyWorldXML, color(255, 0, 0));
   nyUS = new RSS(nyUSXML, color(0, 0, 255));
   nyBus = new RSS(nyBusXML, color(0, 255, 0));
@@ -67,9 +69,9 @@ void draw(){
       prev.display();
       next.display();
   }
-  
 }
 
+//detect if mouse released over an article title
 void mouseReleased(){
   if(r.getState("World")){
     nyWorld.click();
