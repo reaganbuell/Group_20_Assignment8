@@ -42,12 +42,11 @@ class RSS{
       if(currentPage > 1){
         currentPage--;
         min -= 10;
-        if(max == size){
+        if(max == size - 1){
           max -= size % 10;
         } else{
             max -= 10;
         }
-        displayTitles();
       }
     }
     //next
@@ -56,10 +55,9 @@ class RSS{
         currentPage++;
         min += 10;
         max += 10;
-        if(max > size){
-          max = size;
+        if(max > size - 1){
+          max = size - 1;
         }
-        displayTitles();
       }
     }
   }
@@ -68,7 +66,7 @@ class RSS{
   void displayTitles(){
     y = 100;
     //generate the neccessary dict's to tie everything together
-    for( int i = 0; i >= min && i <= max; i++){
+    for( int i = min; i <= max; i++){
       String title = titleList[i].getContent();
       String description = descriptionList[i].getContent();
       String link = linkList[i].getContent();
@@ -139,7 +137,6 @@ class RSS{
     //generate all possible y locations
     for(int x = 0; x < nums.length; x++){
       nums[x] = 100+40*x;
-      println(nums[x]);
     }
     
     //rect for text preview
